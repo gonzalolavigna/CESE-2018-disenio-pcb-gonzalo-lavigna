@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:LAVIGNA_GONZALO-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -106,11 +107,31 @@ Wire Notes Line
 	3450 2050 3700 2050
 Text Notes 3450 2050 0    50   ~ 0
 RESISTOR \nSERIE
-Wire Notes Line style solid rgb(194, 34, 33)
-	3150 2950 3250 3150
-Wire Notes Line rgb(194, 44, 36)
-	3250 3150 3600 3150
-Text Notes 3400 3150 0    50   ~ 0
+Text Notes 3450 3300 0    50   ~ 0
 HOLA
 NoConn ~ 1700 2800
+$Comp
+L Device:R R2
+U 1 1 5BB7223B
+P 3500 2800
+F 0 "R2" H 3570 2846 50  0000 L CNN
+F 1 "100K" H 3570 2755 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3430 2800 50  0001 C CNN
+F 3 "~" H 3500 2800 50  0001 C CNN
+	1    3500 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 2550 3500 2550
+Wire Wire Line
+	3500 2550 3500 2650
+Wire Wire Line
+	3500 2950 3500 3150
+Wire Wire Line
+	3500 3150 3100 3150
+Connection ~ 3100 3150
+Wire Notes Line
+	3150 2900 3150 3300
+Wire Notes Line
+	3150 3300 3650 3300
 $EndSCHEMATC
