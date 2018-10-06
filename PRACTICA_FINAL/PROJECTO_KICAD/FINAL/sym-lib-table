@@ -1,5 +1,3 @@
 (sym_lib_table
-  (lib (name ZZ_6SLX9TQG144)(type Legacy)(uri D:/CESE/CESE-2018-disenio-pcb-gonzalo-lavigna/PRACTICA_FINAL/LIBRARIES/SPARTAL-6-LAVIGNA/6SLX9TQG144.lib)(options "")(descr ""))
-  (lib (name ZZ_arduino_shieldsNCL)(type Legacy)(uri D:/CESE/CESE-2018-disenio-pcb-gonzalo-lavigna/PRACTICA_FINAL/LIBRARIES/ARDUINO-SHIELD/arduino_shieldsNCL.lib)(options "")(descr ""))
-  (lib (name ZZ_arduino)(type Legacy)(uri D:/CESE/CESE-2018-disenio-pcb-gonzalo-lavigna/PRACTICA_FINAL/LIBRARIES/ARDUINO-LIBRARY/arduino.lib)(options "")(descr ""))
+  (lib (name Papilio_DUO-eagle-import)(type Legacy)(uri ${KIPRJMOD}/LIBS/Papilio_DUO-eagle-import.lib)(options "")(descr ""))
 )

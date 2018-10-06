@@ -1,0 +1,60 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Papilio_DUO-eagle-import:MYCON2_USB-MINI-B J?
+U 1 1 5BB94B08
+P 4450 5500
+F 0 "J?" H 4450 5986 59  0000 C CNN
+F 1 "MYCON2_USB-MINI-B" H 4450 5881 59  0000 C CNN
+F 2 "" H 4450 5500 50  0001 C CNN
+F 3 "" H 4450 5500 50  0001 C CNN
+	1    4450 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BB94C94
+P 5750 5250
+F 0 "R?" V 5543 5250 50  0000 C CNN
+F 1 "R" V 5634 5250 50  0000 C CNN
+F 2 "" V 5680 5250 50  0001 C CNN
+F 3 "~" H 5750 5250 50  0001 C CNN
+	1    5750 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BB94D8F
+P 5750 5650
+F 0 "R?" V 5543 5650 50  0000 C CNN
+F 1 "R" V 5634 5650 50  0000 C CNN
+F 2 "" V 5680 5650 50  0001 C CNN
+F 3 "~" H 5750 5650 50  0001 C CNN
+	1    5750 5650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BB94E64
+P 8050 4950
+F 0 "R?" H 7980 4904 50  0000 R CNN
+F 1 "R" H 7980 4995 50  0000 R CNN
+F 2 "" V 7980 4950 50  0001 C CNN
+F 3 "~" H 8050 4950 50  0001 C CNN
+	1    8050 4950
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC
