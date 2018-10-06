@@ -78,4 +78,26 @@ F 3 "~" H 5000 5050 50  0001 C CNN
 	1    5000 5050
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole F1
+U 1 1 5BB885DC
+P 5900 4700
+F 0 "F1" H 6000 4746 50  0000 L CNN
+F 1 "MountingHole" H 6000 4655 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Dia_2mm_Outer" H 5900 4700 50  0001 C CNN
+F 3 "~" H 5900 4700 50  0001 C CNN
+	1    5900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole F2
+U 1 1 5BB887AD
+P 5900 5100
+F 0 "F2" H 6000 5146 50  0000 L CNN
+F 1 "MountingHole" H 6000 5055 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Dia_2mm_Outer" H 5900 5100 50  0001 C CNN
+F 3 "~" H 5900 5100 50  0001 C CNN
+	1    5900 5100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
