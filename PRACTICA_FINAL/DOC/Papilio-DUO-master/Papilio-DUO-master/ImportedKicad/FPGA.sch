@@ -1,0 +1,3178 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 29124 15705
+encoding utf-8
+Sheet 2 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 6300 5900 0    10   BiDi ~ 0
+GND
+Text GLabel 7100 5600 2    70   BiDi ~ 0
+1V2
+Wire Bus Line
+	16600 6200 17600 5200
+Wire Bus Line
+	22500 5200 23700 6400
+Wire Bus Line
+	16600 6200 16200 6200
+Wire Bus Line
+	16200 6200 13100 6200
+Text GLabel 10300 5500 2    70   BiDi ~ 0
+3V3
+Text GLabel 6300 5600 2    70   BiDi ~ 0
+3V3
+Text GLabel 7900 5600 2    70   BiDi ~ 0
+3V3
+Text GLabel 8400 5600 2    70   BiDi ~ 0
+3V3
+Text GLabel 9000 5600 2    70   BiDi ~ 0
+3V3
+Text GLabel 9600 5600 2    70   BiDi ~ 0
+3V3
+Wire Bus Line
+	18200 11300 16500 10100
+Wire Bus Line
+	27850 11300 27950 11200
+Wire Bus Line
+	26150 11300 27850 11300
+Wire Bus Line
+	26050 11200 26150 11300
+Wire Bus Line
+	25950 11300 26050 11200
+Wire Bus Line
+	25950 11300 23900 11300
+Wire Wire Line
+	6300 5900 6300 5800
+Text GLabel 6300 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6500 5900 6500 5800
+Text GLabel 6500 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6700 5900 6700 5800
+Text GLabel 6700 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6900 5900 6900 5800
+Text GLabel 6900 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7100 5900 7100 5800
+Text GLabel 7100 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7300 5900 7300 5800
+Text GLabel 7300 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7500 5900 7500 5800
+Text GLabel 7500 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7700 5900 7700 5800
+Text GLabel 7700 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7900 5900 7900 5800
+Text GLabel 7900 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8100 5900 8100 5800
+Text GLabel 8100 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8400 5900 8400 5800
+Text GLabel 8400 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9000 5900 9000 5800
+Text GLabel 9000 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9300 5900 9300 5800
+Text GLabel 9300 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9600 5900 9600 5800
+Text GLabel 9600 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9900 5900 9900 5800
+Text GLabel 9900 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2900 9400 3200 9400
+Text GLabel 3000 9400 2    70   BiDi ~ 0
+GND
+Wire Wire Line
+	7200 11800 7700 11800
+Text GLabel 7200 11800 2    70   BiDi ~ 0
+GND
+Wire Wire Line
+	10200 5900 10200 5800
+Text GLabel 10200 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	26550 10800 26500 10800
+Wire Wire Line
+	26500 10800 26450 10800
+Wire Wire Line
+	26450 10800 26450 10900
+Wire Wire Line
+	26450 10900 26450 11000
+Wire Wire Line
+	26550 10900 26500 10900
+Wire Wire Line
+	26500 10900 26450 10900
+Connection ~ 26450 10900
+Connection ~ 26500 10800
+Connection ~ 26500 10900
+Text GLabel 26550 10800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7100 2400 7100 2500
+Wire Wire Line
+	7100 2500 7100 2600
+Wire Wire Line
+	7100 2600 7100 2700
+Wire Wire Line
+	7100 2700 7100 2800
+Wire Wire Line
+	7100 2800 7100 2900
+Wire Wire Line
+	7100 2900 7100 3000
+Wire Wire Line
+	7100 3000 7100 3100
+Wire Wire Line
+	7100 3100 7100 3200
+Wire Wire Line
+	7100 3200 7100 3300
+Wire Wire Line
+	7100 3300 7100 3400
+Wire Wire Line
+	7100 3400 7100 3500
+Wire Wire Line
+	7100 3500 7100 3600
+Wire Wire Line
+	7100 3600 7100 4000
+Connection ~ 7100 3600
+Connection ~ 7100 3500
+Connection ~ 7100 3400
+Connection ~ 7100 3300
+Connection ~ 7100 3200
+Connection ~ 7100 3100
+Connection ~ 7100 3000
+Connection ~ 7100 2900
+Connection ~ 7100 2800
+Connection ~ 7100 2700
+Connection ~ 7100 2600
+Connection ~ 7100 2500
+Text GLabel 7100 2400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6300 9200 6700 9200
+Text GLabel 6700 9200 2    70   BiDi ~ 0
+GND
+Wire Wire Line
+	25500 9800 25500 9700
+Connection ~ 25500 9800
+Text GLabel 25500 9800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1700 1500 2400 1500
+Wire Wire Line
+	2400 1500 3100 1500
+Wire Wire Line
+	3100 1500 3800 1500
+Wire Wire Line
+	3800 1500 4500 1500
+Wire Wire Line
+	4500 1500 5200 1500
+Wire Wire Line
+	1700 1500 1300 1500
+Text GLabel 1700 1500 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4700 12300 4494 12300
+Wire Wire Line
+	4494 12300 4400 12300
+Connection ~ 4494 12300
+Text GLabel 4700 12300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14000 9100 14000 9200
+Wire Wire Line
+	14000 9200 14000 9300
+Wire Wire Line
+	14000 9300 14000 9500
+Wire Wire Line
+	14000 9500 14000 9600
+Wire Wire Line
+	13700 9300 14000 9300
+Connection ~ 14000 9200
+Connection ~ 14000 9300
+Connection ~ 14000 9500
+Text GLabel 14000 9100 0    10   BiDi ~ 0
+GND
+Text GLabel 3000 12200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8700 5800 8700 5900
+Text GLabel 8700 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10400 5800 10400 5900
+Text GLabel 10400 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	21700 12500 22000 12500
+Text GLabel 21800 12500 2    70   BiDi ~ 0
+AD0-JTAG_TCK
+Wire Wire Line
+	6300 9300 6700 9300
+Text GLabel 6700 9300 2    70   BiDi ~ 0
+AD0-JTAG_TCK
+Wire Wire Line
+	21700 12700 22000 12700
+Text GLabel 21800 12700 2    70   BiDi ~ 0
+AD2-JTAG_TDO
+Wire Wire Line
+	6300 9400 6700 9400
+Text GLabel 6700 9400 2    70   BiDi ~ 0
+AD2-JTAG_TDO
+Wire Wire Line
+	21700 12600 22000 12600
+Text GLabel 21800 12600 2    70   BiDi ~ 0
+AD1-JTAG_TDI
+Wire Wire Line
+	6300 9500 6700 9500
+Text GLabel 6700 9500 2    70   BiDi ~ 0
+AD1-JTAG_TDI
+Wire Wire Line
+	21700 12800 22000 12800
+Text GLabel 21800 12800 2    70   BiDi ~ 0
+AD3-JTAG_TMS
+Wire Wire Line
+	6300 9600 6700 9600
+Text GLabel 6650 9600 2    70   BiDi ~ 0
+AD3-JTAG_TMS
+Wire Wire Line
+	2100 9200 1800 9200
+Text GLabel 1800 9200 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	2100 9400 1800 9400
+Text GLabel 1800 9400 2    70   BiDi ~ 0
+3V3
+Text GLabel 10200 5600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	9300 11500 8900 11500
+Text GLabel 8900 11500 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	7700 11700 7300 11700
+Text GLabel 7300 11700 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	9300 11600 8900 11600
+Text GLabel 8900 11600 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	26500 8400 26400 8400
+Wire Wire Line
+	26400 8400 26400 8300
+Wire Wire Line
+	26400 8300 26400 8200
+Wire Wire Line
+	26500 8300 26400 8300
+Connection ~ 26400 8300
+Text GLabel 26500 8400 0    10   BiDi ~ 0
+3V3
+Text GLabel 6300 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 6500 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 6700 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 6900 5600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	23600 7200 23000 7200
+Text GLabel 23000 7200 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	9000 3400 9000 3300
+Wire Wire Line
+	9000 3300 9000 3200
+Wire Wire Line
+	9000 3200 9000 3100
+Wire Wire Line
+	9000 3100 9000 3000
+Wire Wire Line
+	9000 3000 9000 2700
+Connection ~ 9000 3000
+Connection ~ 9000 3100
+Connection ~ 9000 3200
+Connection ~ 9000 3300
+Text GLabel 9000 3400 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	21400 10300 21500 10300
+Wire Wire Line
+	21500 10300 21600 10300
+Wire Wire Line
+	21600 10300 21900 10300
+Connection ~ 21500 10300
+Connection ~ 21600 10300
+Text GLabel 21400 10300 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	23000 6900 23000 6800
+Wire Wire Line
+	23000 6800 23000 6500
+Connection ~ 23000 6800
+Text GLabel 23000 6900 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	19100 5900 19000 5900
+Wire Wire Line
+	19000 5900 18900 5900
+Wire Wire Line
+	18900 5900 18600 5900
+Connection ~ 18900 5900
+Connection ~ 19000 5900
+Text GLabel 19100 5900 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	17300 9300 17300 9400
+Wire Wire Line
+	17300 9400 17300 9500
+Wire Wire Line
+	17300 9500 17300 9800
+Connection ~ 17300 9400
+Connection ~ 17300 9500
+Text GLabel 17300 9300 0    10   BiDi ~ 0
+3V3
+Text GLabel 7900 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 8100 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 9000 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 9300 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 9600 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 9900 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 8400 5600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	6300 9100 6700 9100
+Text GLabel 6700 9100 2    70   BiDi ~ 0
+3V3
+Wire Wire Line
+	1700 1700 2400 1700
+Wire Wire Line
+	2400 1700 3100 1700
+Wire Wire Line
+	3100 1700 3800 1700
+Wire Wire Line
+	3800 1700 4500 1700
+Wire Wire Line
+	4500 1700 5200 1700
+Connection ~ 1700 1700
+Text GLabel 1700 1700 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	24200 9250 24200 9300
+Text GLabel 24200 9250 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	4700 12100 4494 12100
+Wire Wire Line
+	4494 12100 4400 12100
+Connection ~ 4494 12100
+Text GLabel 4700 12100 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	13400 8000 14000 8000
+Wire Wire Line
+	14000 8000 14000 8100
+Wire Wire Line
+	14000 8100 14000 8500
+Connection ~ 14000 8000
+Connection ~ 14000 8100
+Text GLabel 13400 8000 0    10   BiDi ~ 0
+3V3
+Text GLabel 3000 12000 0    10   BiDi ~ 0
+3V3
+Text GLabel 8700 5600 0    10   BiDi ~ 0
+3V3
+Text GLabel 10400 5600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	2900 9200 3200 9200
+Text Label 3000 9200 0    70   ~ 0
+OSC_IN
+Wire Wire Line
+	20000 5300 20000 5900
+Text Label 20000 5300 1    70   ~ 0
+OSC_IN
+Wire Wire Line
+	15100 7000 15000 7000
+Text GLabel 15100 7000 0    10   BiDi ~ 0
+ATMEGA_D1/TX
+Wire Wire Line
+	15100 6900 15000 6900
+Text GLabel 15100 6900 0    10   BiDi ~ 0
+ATMEGA_D0/RX
+Wire Wire Line
+	9300 11800 8900 11800
+Text Label 8900 11800 0    70   ~ 0
+FLASH_SI
+Wire Wire Line
+	23600 7600 23000 7600
+Text Label 23600 7600 0    70   ~ 0
+FLASH_SI
+Wire Wire Line
+	9300 11700 8900 11700
+Text Label 8900 11700 0    70   ~ 0
+FLASH_SCK
+Wire Wire Line
+	23600 7300 23000 7300
+Text Label 23600 7300 0    70   ~ 0
+FLASH_SCK
+Wire Wire Line
+	7700 11500 7300 11500
+Text Label 7300 11500 0    70   ~ 0
+FLASH_CS
+Wire Wire Line
+	23000 9600 23800 9600
+Text Label 23800 9600 0    70   ~ 0
+FLASH_CS
+Wire Wire Line
+	7200 11600 7700 11600
+Text Label 7200 11600 0    70   ~ 0
+FLASH_SO
+Wire Wire Line
+	23600 7700 23000 7700
+Text Label 23600 7700 0    70   ~ 0
+FLASH_SO
+Text GLabel 7100 5600 0    10   BiDi ~ 0
+1V2
+Text GLabel 7300 5600 0    10   BiDi ~ 0
+1V2
+Text GLabel 7700 5600 0    10   BiDi ~ 0
+1V2
+Text GLabel 7500 5600 0    10   BiDi ~ 0
+1V2
+Wire Wire Line
+	10100 3400 10100 3300
+Wire Wire Line
+	10100 3300 10100 3200
+Wire Wire Line
+	10100 3200 10100 3100
+Wire Wire Line
+	10100 3100 10100 3000
+Wire Wire Line
+	10100 3000 10100 2700
+Connection ~ 10100 3300
+Connection ~ 10100 3200
+Connection ~ 10100 3100
+Connection ~ 10100 3000
+Text GLabel 10100 3400 0    10   BiDi ~ 0
+1V2
+Wire Wire Line
+	26500 8600 26150 8600
+Text Label 26250 8600 0    70   ~ 0
+A0
+Wire Wire Line
+	19300 11200 19300 10300
+Text Label 19300 11200 1    70   ~ 0
+A0
+Wire Wire Line
+	26500 8700 26150 8700
+Text Label 26250 8700 0    70   ~ 0
+A1
+Wire Wire Line
+	19200 11200 19200 10300
+Text Label 19200 11200 1    70   ~ 0
+A1
+Wire Wire Line
+	26500 8800 26150 8800
+Text Label 26250 8800 0    70   ~ 0
+A2
+Wire Wire Line
+	19500 11200 19500 10300
+Text Label 19500 11200 1    70   ~ 0
+A2
+Wire Wire Line
+	26500 8900 26150 8900
+Text Label 26250 8900 0    70   ~ 0
+A3
+Wire Wire Line
+	19400 11200 19400 10300
+Text Label 19400 11200 1    70   ~ 0
+A3
+Wire Wire Line
+	26500 9000 26150 9000
+Text Label 26250 9000 0    70   ~ 0
+A4
+Wire Wire Line
+	19700 11200 19700 10300
+Text Label 19700 11200 1    70   ~ 0
+A4
+Wire Wire Line
+	26500 9100 26150 9100
+Text Label 26250 9100 0    70   ~ 0
+A5
+Wire Wire Line
+	19100 11200 19100 10300
+Text Label 19100 11200 1    70   ~ 0
+A5
+Wire Wire Line
+	26500 9200 26150 9200
+Text Label 26250 9200 0    70   ~ 0
+A6
+Wire Wire Line
+	18800 11200 18800 10300
+Text Label 18800 11200 1    70   ~ 0
+A6
+Wire Wire Line
+	26500 9300 26150 9300
+Text Label 26250 9300 0    70   ~ 0
+A7
+Wire Wire Line
+	18900 11200 18900 10300
+Text Label 18900 11200 1    70   ~ 0
+A7
+Wire Wire Line
+	26500 9400 26150 9400
+Text Label 26250 9400 0    70   ~ 0
+A8
+Wire Wire Line
+	17000 9200 17300 9200
+Text Label 17025 9200 0    70   ~ 0
+A8
+Wire Wire Line
+	26500 9500 26150 9500
+Text Label 26250 9500 0    70   ~ 0
+A9
+Wire Wire Line
+	16600 8900 17300 8900
+Text Label 16600 8900 0    70   ~ 0
+A9
+Wire Wire Line
+	26500 9600 26150 9600
+Text Label 26250 9600 0    70   ~ 0
+A10
+Wire Wire Line
+	23800 9200 23000 9200
+Text Label 23800 9200 0    70   ~ 0
+A10
+Wire Wire Line
+	26500 9700 26150 9700
+Text Label 26250 9700 0    70   ~ 0
+A11
+Wire Wire Line
+	23800 9500 23000 9500
+Text Label 23800 9500 0    70   ~ 0
+A11
+Wire Wire Line
+	26500 9800 26150 9800
+Text Label 26250 9800 0    70   ~ 0
+A12
+Wire Wire Line
+	23800 9400 23000 9400
+Text Label 23800 9400 0    70   ~ 0
+A12
+Wire Wire Line
+	26500 9900 26150 9900
+Text Label 26250 9900 0    70   ~ 0
+A13
+Wire Wire Line
+	21200 11200 21200 10300
+Text Label 21200 11200 1    70   ~ 0
+A13
+Wire Wire Line
+	26500 10000 26150 10000
+Text Label 26250 10000 0    70   ~ 0
+A14
+Wire Wire Line
+	21300 10300 21300 11200
+Text Label 21300 11200 1    70   ~ 0
+A14
+Wire Wire Line
+	26500 10100 26150 10100
+Text Label 26250 10100 0    70   ~ 0
+A15
+Wire Wire Line
+	20600 11200 20600 10300
+Text Label 20600 11200 1    70   ~ 0
+A15
+Wire Wire Line
+	26500 10200 26150 10200
+Text Label 26250 10200 0    70   ~ 0
+A16
+Wire Wire Line
+	20900 11200 20900 10300
+Text Label 20900 11200 1    70   ~ 0
+A16
+Wire Wire Line
+	26500 10300 26150 10300
+Text Label 26250 10300 0    70   ~ 0
+A17
+Wire Wire Line
+	21000 11200 21000 10300
+Text Label 21000 11200 1    70   ~ 0
+A17
+Wire Wire Line
+	27850 8300 27500 8300
+Text Label 27650 8300 0    70   ~ 0
+D0
+Wire Wire Line
+	19900 11200 19900 10300
+Text Label 19900 11200 1    70   ~ 0
+D0
+Wire Wire Line
+	27850 8400 27500 8400
+Text Label 27650 8400 0    70   ~ 0
+D1
+Wire Wire Line
+	19800 11200 19800 10300
+Text Label 19800 11200 1    70   ~ 0
+D1
+Wire Wire Line
+	27850 8500 27500 8500
+Text Label 27650 8500 0    70   ~ 0
+D2
+Wire Wire Line
+	20100 11200 20100 10300
+Text Label 20100 11200 1    70   ~ 0
+D2
+Wire Wire Line
+	27850 8600 27500 8600
+Text Label 27650 8600 0    70   ~ 0
+D3
+Wire Wire Line
+	20000 11200 20000 10300
+Text Label 20000 11200 1    70   ~ 0
+D3
+Wire Wire Line
+	27850 8700 27500 8700
+Text Label 27625 8700 0    70   ~ 0
+D4
+Wire Wire Line
+	20300 11200 20300 10300
+Text Label 20300 11200 1    70   ~ 0
+D4
+Wire Wire Line
+	27850 8800 27500 8800
+Text Label 27650 8800 0    70   ~ 0
+D5
+Wire Wire Line
+	20200 11200 20200 10300
+Text Label 20200 11200 1    70   ~ 0
+D5
+Wire Wire Line
+	27850 8900 27500 8900
+Text Label 27650 8900 0    70   ~ 0
+D6
+Wire Wire Line
+	20500 11200 20500 10300
+Text Label 20500 11200 1    70   ~ 0
+D6
+Wire Wire Line
+	27850 9000 27500 9000
+Text Label 27650 9000 0    70   ~ 0
+D7
+Wire Wire Line
+	20400 11200 20400 10300
+Text Label 20400 11200 1    70   ~ 0
+D7
+Wire Wire Line
+	27850 9100 27550 9100
+Text Label 27650 9100 0    70   ~ 0
+D8
+Wire Wire Line
+	27850 9200 27550 9200
+Text Label 27650 9200 0    70   ~ 0
+D9
+Wire Wire Line
+	27850 9300 27550 9300
+Text Label 27650 9300 0    70   ~ 0
+D10
+Wire Wire Line
+	27850 9400 27550 9400
+Text Label 27650 9400 0    70   ~ 0
+D11
+Wire Wire Line
+	27850 9500 27550 9500
+Text Label 27650 9500 0    70   ~ 0
+D12
+Wire Wire Line
+	27850 9600 27550 9600
+Text Label 27650 9600 0    70   ~ 0
+D13
+Wire Wire Line
+	27850 9700 27550 9700
+Text Label 27650 9700 0    70   ~ 0
+D14
+Wire Wire Line
+	27850 9800 27550 9800
+Text Label 27650 9800 0    70   ~ 0
+D15
+Wire Wire Line
+	27850 10400 27500 10400
+Text Label 27650 10400 0    70   ~ 0
+~WE
+Wire Wire Line
+	19000 11200 19000 10300
+Text Label 19000 11200 1    70   ~ 0
+~WE
+Wire Wire Line
+	27850 10500 27500 10500
+Text Label 27650 10500 0    70   ~ 0
+~OE
+Wire Wire Line
+	20700 11200 20700 10300
+Text Label 20700 11200 1    70   ~ 0
+~OE
+Wire Wire Line
+	27850 10300 27500 10300
+Text Label 27650 10300 0    70   ~ 0
+~CS
+Wire Wire Line
+	19600 11200 19600 10300
+Text Label 19600 11200 1    70   ~ 0
+~CS
+Wire Wire Line
+	23000 9800 24900 9800
+Wire Wire Line
+	24900 9800 25100 9800
+Wire Wire Line
+	25100 9800 25100 9700
+Connection ~ 25100 9800
+Connection ~ 24900 9800
+Wire Wire Line
+	16100 8700 15000 8700
+Text GLabel 16100 8700 2    70   BiDi ~ 0
+MEGA_D16
+Wire Wire Line
+	16700 6700 17300 6700
+Text GLabel 16700 6700 2    70   BiDi ~ 0
+MEGA_D16
+Wire Wire Line
+	16100 8800 15000 8800
+Text Label 16100 8800 0    70   ~ 0
+MEGA_D17
+Wire Wire Line
+	16700 6800 17300 6800
+Text Label 16700 6800 0    70   ~ 0
+MEGA_D17
+Wire Wire Line
+	16100 8900 15000 8900
+Text Label 16100 8900 0    70   ~ 0
+MEGA_D18
+Wire Wire Line
+	19300 5300 19300 5900
+Text Label 19300 5300 1    70   ~ 0
+MEGA_D18
+Wire Wire Line
+	16100 9000 15000 9000
+Text Label 16100 9000 0    70   ~ 0
+MEGA_D19
+Wire Wire Line
+	19500 5900 19500 5300
+Text Label 19500 5300 1    70   ~ 0
+MEGA_D19
+Wire Wire Line
+	16100 9100 15000 9100
+Text Label 16100 9100 0    70   ~ 0
+MEGA_D20
+Wire Wire Line
+	19400 5300 19400 5900
+Text Label 19400 5300 1    70   ~ 0
+MEGA_D20
+Wire Wire Line
+	16100 9200 15000 9200
+Text Label 16100 9200 0    70   ~ 0
+MEGA_D21
+Wire Wire Line
+	19700 5300 19700 5900
+Text Label 19700 5300 1    70   ~ 0
+MEGA_D21
+Wire Wire Line
+	16100 9400 15000 9400
+Text Label 16100 9400 0    70   ~ 0
+MEGA_D22
+Wire Wire Line
+	19600 5300 19600 5900
+Text Label 19600 5300 1    70   ~ 0
+MEGA_D22
+Wire Wire Line
+	16100 9500 15000 9500
+Text Label 16100 9500 0    70   ~ 0
+MEGA_D23
+Wire Wire Line
+	19900 5300 19900 5900
+Text Label 19900 5300 1    70   ~ 0
+MEGA_D23
+Wire Wire Line
+	16100 9600 15000 9600
+Text Label 16100 9600 0    70   ~ 0
+MEGA_D24
+Wire Wire Line
+	19800 5300 19800 5900
+Text Label 19800 5300 1    70   ~ 0
+MEGA_D24
+Wire Wire Line
+	16100 9700 15000 9700
+Text Label 16100 9700 0    70   ~ 0
+MEGA_D25
+Wire Wire Line
+	20100 5300 20100 5900
+Text Label 20100 5300 1    70   ~ 0
+MEGA_D25
+Wire Wire Line
+	16100 9800 15000 9800
+Text Label 16100 9800 0    70   ~ 0
+MEGA_D26
+Wire Wire Line
+	20300 5300 20300 5900
+Text Label 20300 5300 1    70   ~ 0
+MEGA_D26
+Wire Wire Line
+	16100 9900 15000 9900
+Text Label 16100 9900 0    70   ~ 0
+MEGA_D27
+Wire Wire Line
+	20200 5300 20200 5900
+Text Label 20200 5300 1    70   ~ 0
+MEGA_D27
+Wire Wire Line
+	16100 10000 15000 10000
+Text GLabel 16100 10000 2    70   BiDi ~ 0
+MEGA_D28/A5
+Wire Wire Line
+	20500 5300 20500 5900
+Text GLabel 20500 5300 3    70   BiDi ~ 0
+MEGA_D28/A5
+Wire Wire Line
+	13200 7400 14000 7400
+Text GLabel 13200 7400 2    70   BiDi ~ 0
+MEGA_D28/A5
+Wire Wire Line
+	16100 10100 15000 10100
+Text Label 16100 10100 0    70   ~ 0
+MEGA_D29
+Wire Wire Line
+	20400 5300 20400 5900
+Text Label 20400 5300 1    70   ~ 0
+MEGA_D29
+Wire Wire Line
+	16100 10200 15000 10200
+Text GLabel 16100 10200 2    70   BiDi ~ 0
+MEGA_D30/A4
+Wire Wire Line
+	20700 5300 20700 5900
+Text GLabel 20700 5300 3    70   BiDi ~ 0
+MEGA_D30/A4
+Wire Wire Line
+	13200 7300 14000 7300
+Text GLabel 13200 7300 2    70   BiDi ~ 0
+MEGA_D30/A4
+Wire Wire Line
+	16100 10300 15000 10300
+Text Label 16100 10300 0    70   ~ 0
+MEGA_D31
+Wire Wire Line
+	20600 5300 20600 5900
+Text Label 20600 5300 1    70   ~ 0
+MEGA_D31
+Wire Wire Line
+	16100 10400 15000 10400
+Text GLabel 16100 10400 2    70   BiDi ~ 0
+MEGA_D32/A3
+Wire Wire Line
+	20900 5300 20900 5900
+Text GLabel 20900 5300 3    70   BiDi ~ 0
+MEGA_D32/A3
+Wire Wire Line
+	13200 7200 14000 7200
+Text GLabel 13200 7200 2    70   BiDi ~ 0
+MEGA_D32/A3
+Wire Wire Line
+	16100 10500 15000 10500
+Text Label 16100 10500 0    70   ~ 0
+MEGA_D33
+Wire Wire Line
+	20800 5300 20800 5900
+Text Label 20800 5300 1    70   ~ 0
+MEGA_D33
+Wire Wire Line
+	16100 10600 15000 10600
+Text GLabel 16100 10600 2    70   BiDi ~ 0
+MEGA_D34/A2
+Wire Wire Line
+	21100 5300 21100 5900
+Text GLabel 21100 5300 3    70   BiDi ~ 0
+MEGA_D34/A2
+Wire Wire Line
+	13200 7100 14000 7100
+Text GLabel 13200 7100 2    70   BiDi ~ 0
+MEGA_D34/A2
+Wire Wire Line
+	16100 10700 15000 10700
+Text Label 16100 10700 0    70   ~ 0
+MEGA_D35
+Wire Wire Line
+	21000 5300 21000 5900
+Text Label 21000 5300 1    70   ~ 0
+MEGA_D35
+Wire Wire Line
+	16100 10800 15000 10800
+Text Label 16100 10800 0    70   ~ 0
+MEGA_D36
+Wire Wire Line
+	21300 5300 21300 5900
+Text Label 21300 5300 1    70   ~ 0
+MEGA_D36
+Wire Wire Line
+	16100 10900 15000 10900
+Text Label 16100 10900 0    70   ~ 0
+MEGA_D37
+Wire Wire Line
+	21200 5300 21200 5900
+Text Label 21200 5300 1    70   ~ 0
+MEGA_D37
+Wire Wire Line
+	16100 11000 15000 11000
+Text Label 16100 11000 0    70   ~ 0
+MEGA_D38
+Wire Wire Line
+	21500 5300 21500 5900
+Text Label 21500 5300 1    70   ~ 0
+MEGA_D38
+Wire Wire Line
+	16100 11100 15000 11100
+Text Label 16100 11100 0    70   ~ 0
+MEGA_D39
+Wire Wire Line
+	21400 5300 21400 5900
+Text Label 21400 5300 1    70   ~ 0
+MEGA_D39
+Wire Wire Line
+	16100 11200 15000 11200
+Text Label 16100 11200 0    70   ~ 0
+MEGA_D40
+Wire Wire Line
+	23600 7500 23000 7500
+Text Label 23600 7500 0    70   ~ 0
+MEGA_D40
+Wire Wire Line
+	13200 10000 14000 10000
+Text Label 13200 10000 0    70   ~ 0
+MEGA_D41
+Wire Wire Line
+	23600 7400 23000 7400
+Text Label 23600 7400 0    70   ~ 0
+MEGA_D41
+Wire Wire Line
+	13200 10100 14000 10100
+Text Label 13200 10100 0    70   ~ 0
+MEGA_D42
+Wire Wire Line
+	23600 7900 23000 7900
+Text Label 23600 7900 0    70   ~ 0
+MEGA_D42
+Wire Wire Line
+	13200 10200 14000 10200
+Text Label 13200 10200 0    70   ~ 0
+MEGA_D43
+Wire Wire Line
+	23600 7800 23000 7800
+Text Label 23600 7800 0    70   ~ 0
+MEGA_D43
+Wire Wire Line
+	13200 10300 14000 10300
+Text Label 13200 10300 0    70   ~ 0
+MEGA_D44
+Wire Wire Line
+	23600 8000 23000 8000
+Text Label 23600 8000 0    70   ~ 0
+MEGA_D44
+Wire Wire Line
+	13200 10400 14000 10400
+Text Label 13200 10400 0    70   ~ 0
+MEGA_D45
+Wire Wire Line
+	23600 8300 23000 8300
+Text Label 23600 8300 0    70   ~ 0
+MEGA_D45
+Wire Wire Line
+	13200 10500 14000 10500
+Text Label 13200 10500 0    70   ~ 0
+MEGA_D46
+Wire Wire Line
+	23600 8200 23000 8200
+Text Label 23600 8200 0    70   ~ 0
+MEGA_D46
+Wire Wire Line
+	13200 10600 14000 10600
+Text Label 13200 10600 0    70   ~ 0
+MEGA_D47
+Wire Wire Line
+	23600 8500 23000 8500
+Text Label 23600 8500 0    70   ~ 0
+MEGA_D47
+Wire Wire Line
+	13200 10700 14000 10700
+Text Label 13200 10700 0    70   ~ 0
+MEGA_D48
+Wire Wire Line
+	23600 8400 23000 8400
+Text Label 23600 8400 0    70   ~ 0
+MEGA_D48
+Wire Wire Line
+	13200 10800 14000 10800
+Text Label 13200 10800 0    70   ~ 0
+MEGA_D49
+Wire Wire Line
+	23600 8700 23000 8700
+Text Label 23600 8700 0    70   ~ 0
+MEGA_D49
+Wire Wire Line
+	13200 10900 14000 10900
+Text Label 13200 10900 0    70   ~ 0
+MEGA_D50
+Wire Wire Line
+	23600 8600 23000 8600
+Text Label 23600 8600 0    70   ~ 0
+MEGA_D50
+Wire Wire Line
+	13200 11000 14000 11000
+Text Label 13200 11000 0    70   ~ 0
+MEGA_D51
+Wire Wire Line
+	23600 8900 23000 8900
+Text Label 23600 8900 0    70   ~ 0
+MEGA_D51
+Wire Wire Line
+	13200 11100 14000 11100
+Text Label 13200 11100 0    70   ~ 0
+MEGA_D52
+Wire Wire Line
+	23600 8800 23000 8800
+Text Label 23600 8800 0    70   ~ 0
+MEGA_D52
+Wire Wire Line
+	13200 11200 14000 11200
+Text Label 13200 11200 0    70   ~ 0
+MEGA_D53
+Wire Wire Line
+	24200 9650 24200 9700
+Text Label 23000 9700 0    70   ~ 0
+MEGA_D53
+Wire Wire Line
+	16700 8300 17300 8300
+Text Label 16700 8300 0    70   ~ 0
+MEGA_D13
+Wire Wire Line
+	16100 8300 15500 8300
+Text Label 16100 8300 0    70   ~ 0
+MEGA_D13
+Wire Wire Line
+	16700 7400 17300 7400
+Text Label 16700 7400 0    70   ~ 0
+MEGA_D2
+Wire Wire Line
+	16100 7200 15500 7200
+Text Label 16100 7200 0    70   ~ 0
+MEGA_D2
+Wire Wire Line
+	16700 7300 17300 7300
+Text Label 16700 7300 0    70   ~ 0
+MEGA_D3
+Wire Wire Line
+	16100 7300 15500 7300
+Text Label 16100 7300 0    70   ~ 0
+MEGA_D3
+Wire Wire Line
+	16700 7600 17300 7600
+Text Label 16700 7600 0    70   ~ 0
+MEGA_D4
+Wire Wire Line
+	16100 7400 15500 7400
+Text Label 16100 7400 0    70   ~ 0
+MEGA_D4
+Wire Wire Line
+	16700 7500 17300 7500
+Text Label 16700 7500 0    70   ~ 0
+MEGA_D5
+Wire Wire Line
+	16100 7500 15500 7500
+Text Label 16100 7500 0    70   ~ 0
+MEGA_D5
+Wire Wire Line
+	16700 7800 17300 7800
+Text Label 16700 7800 0    70   ~ 0
+MEGA_D6
+Wire Wire Line
+	16100 7600 15500 7600
+Text Label 16100 7600 0    70   ~ 0
+MEGA_D6
+Wire Wire Line
+	16700 7700 17300 7700
+Text Label 16700 7700 0    70   ~ 0
+MEGA_D7
+Wire Wire Line
+	16100 7700 15500 7700
+Text Label 16100 7700 0    70   ~ 0
+MEGA_D7
+Wire Wire Line
+	16700 8000 17300 8000
+Text Label 16700 8000 0    70   ~ 0
+MEGA_D8
+Wire Wire Line
+	16100 7800 15500 7800
+Text Label 16100 7800 0    70   ~ 0
+MEGA_D8
+Wire Wire Line
+	16700 7900 17300 7900
+Text Label 16700 7900 0    70   ~ 0
+MEGA_D9
+Wire Wire Line
+	16100 7900 15500 7900
+Text Label 16100 7900 0    70   ~ 0
+MEGA_D9
+Wire Wire Line
+	16700 8200 17300 8200
+Text Label 16700 8200 0    70   ~ 0
+MEGA_D10
+Wire Wire Line
+	16100 8000 15500 8000
+Text Label 16100 8000 0    70   ~ 0
+MEGA_D10
+Wire Wire Line
+	16700 8100 17300 8100
+Text Label 16700 8100 0    70   ~ 0
+MEGA_D11
+Wire Wire Line
+	16100 8100 15500 8100
+Text Label 16100 8100 0    70   ~ 0
+MEGA_D11
+Wire Wire Line
+	16700 8400 17300 8400
+Text Label 16700 8400 0    70   ~ 0
+MEGA_D12
+Wire Wire Line
+	16100 8200 15500 8200
+Text Label 16100 8200 0    70   ~ 0
+MEGA_D12
+Wire Wire Line
+	16100 8500 15000 8500
+Text GLabel 16100 8500 2    70   BiDi ~ 0
+MEGA_D14
+Wire Wire Line
+	16700 6900 17300 6900
+Text GLabel 16700 6900 2    70   BiDi ~ 0
+MEGA_D14
+Wire Wire Line
+	16100 8600 15000 8600
+Text GLabel 16100 8600 2    70   BiDi ~ 0
+MEGA_D15
+Wire Wire Line
+	16700 7000 17300 7000
+Text GLabel 16700 7000 2    70   BiDi ~ 0
+MEGA_D15
+Wire Wire Line
+	13200 7000 14000 7000
+Text GLabel 13200 7000 2    70   BiDi ~ 0
+ATMEGA_A1
+Wire Wire Line
+	13200 6900 14000 6900
+Text GLabel 13200 6900 2    70   BiDi ~ 0
+ATMEGA_A0
+Wire Wire Line
+	1700 1800 2400 1800
+Wire Wire Line
+	2400 1800 3100 1800
+Wire Wire Line
+	3100 1800 3800 1800
+Wire Wire Line
+	3800 1800 4500 1800
+Wire Wire Line
+	4500 1800 5200 1800
+Connection ~ 1700 1800
+Text GLabel 1700 1800 0    10   BiDi ~ 0
+5V0
+Wire Wire Line
+	13800 8800 14000 8800
+Text GLabel 13800 8800 0    10   BiDi ~ 0
+5V0
+Wire Wire Line
+	13800 7700 14000 7700
+Wire Wire Line
+	14000 7800 14000 7700
+Connection ~ 14000 7700
+Text GLabel 13800 7700 0    10   BiDi ~ 0
+5V0
+Wire Wire Line
+	15100 7200 15000 7200
+Text GLabel 15100 7200 0    10   BiDi ~ 0
+ATMEGA_D2
+Wire Wire Line
+	15100 7300 15000 7300
+Text GLabel 15100 7300 0    10   BiDi ~ 0
+ATMEGA_D3
+Wire Wire Line
+	15100 7400 15000 7400
+Text GLabel 15100 7400 0    10   BiDi ~ 0
+ATMEGA_D4
+Wire Wire Line
+	15100 7500 15000 7500
+Text GLabel 15100 7500 0    10   BiDi ~ 0
+ATMEGA_D5*
+Wire Wire Line
+	15100 7600 15000 7600
+Text GLabel 15100 7600 0    10   BiDi ~ 0
+ATMEGA_D6*
+Wire Wire Line
+	15100 7700 15000 7700
+Text GLabel 15100 7700 0    10   BiDi ~ 0
+ATMEGA_D7
+Wire Wire Line
+	15100 7800 15000 7800
+Text GLabel 15100 7800 0    10   BiDi ~ 0
+ATMEGA_IO8
+Wire Wire Line
+	15100 7900 15000 7900
+Text GLabel 15100 7900 0    10   BiDi ~ 0
+ATMEGA_IO9*
+Wire Wire Line
+	15100 8000 15000 8000
+Text GLabel 15100 8000 0    10   BiDi ~ 0
+ATMEGA_IO10*
+Wire Wire Line
+	15100 8100 15000 8100
+Text GLabel 15100 8100 0    10   BiDi ~ 0
+ATMEGA_IO11*
+Wire Wire Line
+	15100 8200 15000 8200
+Text GLabel 15100 8200 0    10   BiDi ~ 0
+ATMEGA_IO12
+Wire Wire Line
+	15100 8300 15000 8300
+Text GLabel 15100 8300 0    10   BiDi ~ 0
+ATMEGA_IO13*
+Wire Wire Line
+	16100 6900 15500 6900
+Text Label 16100 6900 0    70   ~ 0
+MEGA_D0
+Wire Wire Line
+	16700 7200 17300 7200
+Text Label 16700 7200 0    70   ~ 0
+MEGA_D0
+Wire Wire Line
+	16100 7000 15500 7000
+Text Label 16100 7000 0    70   ~ 0
+MEGA_D1
+Wire Wire Line
+	16700 7100 17300 7100
+Text Label 16700 7100 0    70   ~ 0
+MEGA_D1
+Wire Wire Line
+	26150 10390 26140 10400
+Wire Wire Line
+	26140 10400 26500 10400
+Text Label 26250 10400 0    70   ~ 0
+A18
+Wire Wire Line
+	21100 11200 21100 10300
+Text Label 21100 11200 1    70   ~ 0
+A18
+Wire Wire Line
+	26150 10500 26500 10500
+Text Label 26250 10500 0    70   ~ 0
+A19
+Wire Wire Line
+	23800 9300 23000 9300
+Text Label 23800 9300 0    70   ~ 0
+A19
+Wire Wire Line
+	26150 10650 26200 10600
+Wire Wire Line
+	26200 10600 26500 10600
+Text Label 26150 10650 0    70   ~ 0
+A20
+Wire Wire Line
+	20800 11200 20800 10300
+Text Label 20800 11200 1    70   ~ 0
+A20
+Wire Wire Line
+	19200 5900 19200 5300
+Text Label 19200 5300 1    70   ~ 0
+SW1
+Wire Wire Line
+	4400 12200 4494 12200
+Wire Wire Line
+	4494 12200 4700 12200
+Connection ~ 4494 12200
+Text Label 4700 12200 0    70   ~ 0
+SW1
+Text Label 3000 12100 2    70   ~ 0
+SW1
+Wire Wire Line
+	23800 9000 23000 9000
+Text GLabel 23800 9000 2    70   BiDi ~ 0
+AD4-DTR
+Wire Wire Line
+	23800 9100 23000 9100
+Text GLabel 23800 9100 2    70   BiDi ~ 0
+BD0_TXD/MPSSE_TCK
+Wire Wire Line
+	16600 8500 17300 8500
+Text GLabel 16600 8500 2    70   BiDi ~ 0
+BD3_MPSSE_TMS
+Wire Wire Line
+	16600 8600 17300 8600
+Text GLabel 16600 8600 2    70   BiDi ~ 0
+BD4-DTR
+Wire Wire Line
+	17000 9000 17300 9000
+Text GLabel 17000 9000 2    70   BiDi ~ 0
+BD1_RXD/MPSSE_TDI
+Wire Wire Line
+	16600 8800 17300 8800
+Text GLabel 16600 8800 2    70   BiDi ~ 0
+ARD_RESET
+Wire Wire Line
+	14000 8600 13700 8600
+Text GLabel 13700 8600 2    70   BiDi ~ 0
+ARD_RESET
+Wire Wire Line
+	16600 8700 17300 8700
+Text GLabel 16600 8700 2    70   BiDi ~ 0
+BD2_MPSSE_TDO
+Wire Wire Line
+	14000 9000 13300 9000
+Text GLabel 13300 9000 2    70   BiDi ~ 0
+AREF
+Entry Wire Line
+	6300 6100 6400 6200
+Entry Wire Line
+	6400 6000 6500 5900
+Entry Wire Line
+	6600 6000 6700 5900
+Entry Wire Line
+	6800 6000 6900 5900
+Entry Wire Line
+	7000 6000 7100 5900
+Entry Wire Line
+	7200 6000 7300 5900
+Entry Wire Line
+	7400 6000 7500 5900
+Entry Wire Line
+	7600 6000 7700 5900
+Entry Wire Line
+	7800 6000 7900 5900
+Entry Wire Line
+	8000 6000 8100 5900
+Entry Wire Line
+	8300 6000 8400 5900
+Entry Wire Line
+	8900 6000 9000 5900
+Entry Wire Line
+	9200 6000 9300 5900
+Entry Wire Line
+	9500 6000 9600 5900
+Entry Wire Line
+	9800 6000 9900 5900
+Entry Wire Line
+	10100 6000 10200 5900
+Entry Wire Line
+	8600 6000 8700 5900
+Entry Wire Line
+	10300 6000 10400 5900
+Entry Wire Line
+	7200 5500 7300 5400
+Entry Wire Line
+	7200 5500 7300 5600
+Entry Wire Line
+	7600 5500 7700 5600
+Entry Wire Line
+	7400 5500 7500 5600
+Entry Wire Line
+	16600 6600 16700 6700
+Entry Wire Line
+	16600 6700 16700 6800
+Entry Wire Line
+	16600 8200 16700 8300
+Entry Wire Line
+	16600 7300 16700 7400
+Entry Wire Line
+	16600 7200 16700 7300
+Entry Wire Line
+	16600 7500 16700 7600
+Entry Wire Line
+	16600 7400 16700 7500
+Entry Wire Line
+	16600 7700 16700 7800
+Entry Wire Line
+	16600 7600 16700 7700
+Entry Wire Line
+	16600 7900 16700 8000
+Entry Wire Line
+	16600 7800 16700 7900
+Entry Wire Line
+	16600 8100 16700 8200
+Entry Wire Line
+	16600 8000 16700 8100
+Entry Wire Line
+	16600 8300 16700 8400
+Entry Wire Line
+	16600 6800 16700 6900
+Entry Wire Line
+	16600 6900 16700 7000
+Entry Wire Line
+	16600 7100 16700 7200
+Entry Wire Line
+	16600 7000 16700 7100
+Entry Wire Line
+	19900 5200 20000 5300
+Entry Wire Line
+	19200 5200 19300 5300
+Entry Wire Line
+	19400 5200 19500 5300
+Entry Wire Line
+	19300 5200 19400 5300
+Entry Wire Line
+	19600 5200 19700 5300
+Entry Wire Line
+	19500 5200 19600 5300
+Entry Wire Line
+	19800 5200 19900 5300
+Entry Wire Line
+	19700 5200 19800 5300
+Entry Wire Line
+	20000 5200 20100 5300
+Entry Wire Line
+	20200 5200 20300 5300
+Entry Wire Line
+	20100 5200 20200 5300
+Entry Wire Line
+	20400 5200 20500 5300
+Entry Wire Line
+	20300 5200 20400 5300
+Entry Wire Line
+	20600 5200 20700 5300
+Entry Wire Line
+	20500 5200 20600 5300
+Entry Wire Line
+	20800 5200 20900 5300
+Entry Wire Line
+	20700 5200 20800 5300
+Entry Wire Line
+	21000 5200 21100 5300
+Entry Wire Line
+	20900 5200 21000 5300
+Entry Wire Line
+	21200 5200 21300 5300
+Entry Wire Line
+	21100 5200 21200 5300
+Entry Wire Line
+	21400 5200 21500 5300
+Entry Wire Line
+	21300 5200 21400 5300
+Entry Wire Line
+	19100 5200 19200 5300
+Entry Wire Line
+	23600 7600 23700 7500
+Entry Wire Line
+	23600 7300 23700 7200
+Entry Wire Line
+	23600 7700 23700 7600
+Entry Wire Line
+	23600 7500 23700 7400
+Entry Wire Line
+	23600 7400 23700 7300
+Entry Wire Line
+	23600 7900 23700 7800
+Entry Wire Line
+	23600 7800 23700 7700
+Entry Wire Line
+	23600 8000 23700 7900
+Entry Wire Line
+	23600 8300 23700 8200
+Entry Wire Line
+	23600 8200 23700 8100
+Entry Wire Line
+	23600 8500 23700 8400
+Entry Wire Line
+	23600 8400 23700 8300
+Entry Wire Line
+	23600 8700 23700 8600
+Entry Wire Line
+	23600 8600 23700 8500
+Entry Wire Line
+	23600 8900 23700 8800
+Entry Wire Line
+	23600 8800 23700 8700
+Entry Wire Line
+	16100 8700 16200 8600
+Entry Wire Line
+	16100 8800 16200 8700
+Entry Wire Line
+	16100 8900 16200 8800
+Entry Wire Line
+	16100 9000 16200 8900
+Entry Wire Line
+	16100 9100 16200 9000
+Entry Wire Line
+	16100 9200 16200 9100
+Entry Wire Line
+	16100 9400 16200 9300
+Entry Wire Line
+	16100 9500 16200 9400
+Entry Wire Line
+	16100 9600 16200 9500
+Entry Wire Line
+	16100 9700 16200 9600
+Entry Wire Line
+	16100 9800 16200 9700
+Entry Wire Line
+	16100 9900 16200 9800
+Entry Wire Line
+	16100 10000 16200 9900
+Entry Wire Line
+	16100 10100 16200 10000
+Entry Wire Line
+	16100 10200 16200 10100
+Entry Wire Line
+	16100 10300 16200 10200
+Entry Wire Line
+	16100 10400 16200 10300
+Entry Wire Line
+	16100 10500 16200 10400
+Entry Wire Line
+	16100 10600 16200 10500
+Entry Wire Line
+	16100 10700 16200 10600
+Entry Wire Line
+	16100 10800 16200 10700
+Entry Wire Line
+	16100 10900 16200 10800
+Entry Wire Line
+	16100 11000 16200 10900
+Entry Wire Line
+	16100 11100 16200 11000
+Entry Wire Line
+	16100 11200 16200 11100
+Entry Wire Line
+	16100 8300 16200 8200
+Entry Wire Line
+	16100 7200 16200 7100
+Entry Wire Line
+	16100 7300 16200 7200
+Entry Wire Line
+	16100 7400 16200 7300
+Entry Wire Line
+	16100 7500 16200 7400
+Entry Wire Line
+	16100 7600 16200 7500
+Entry Wire Line
+	16100 7700 16200 7600
+Entry Wire Line
+	16100 7800 16200 7700
+Entry Wire Line
+	16100 7900 16200 7800
+Entry Wire Line
+	16100 8000 16200 7900
+Entry Wire Line
+	16100 8100 16200 8000
+Entry Wire Line
+	16100 8200 16200 8100
+Entry Wire Line
+	16100 8500 16200 8400
+Entry Wire Line
+	16100 8600 16200 8500
+Entry Wire Line
+	16100 6900 16200 6800
+Entry Wire Line
+	16100 7000 16200 6900
+Entry Wire Line
+	13100 7300 13200 7400
+Entry Wire Line
+	13100 7200 13200 7300
+Entry Wire Line
+	13100 7100 13200 7200
+Entry Wire Line
+	13100 7000 13200 7100
+Entry Wire Line
+	13100 9900 13200 10000
+Entry Wire Line
+	13100 10000 13200 10100
+Entry Wire Line
+	13100 10100 13200 10200
+Entry Wire Line
+	13100 10200 13200 10300
+Entry Wire Line
+	13100 10300 13200 10400
+Entry Wire Line
+	13100 10400 13200 10500
+Entry Wire Line
+	13100 10500 13200 10600
+Entry Wire Line
+	13100 10600 13200 10700
+Entry Wire Line
+	13100 10700 13200 10800
+Entry Wire Line
+	13100 10800 13200 10900
+Entry Wire Line
+	13100 10900 13200 11000
+Entry Wire Line
+	13100 11000 13200 11100
+Entry Wire Line
+	13100 11100 13200 11200
+Entry Wire Line
+	13100 6900 13200 7000
+Entry Wire Line
+	13100 6800 13200 6900
+Entry Wire Line
+	10200 5600 10300 5500
+Entry Wire Line
+	10300 5500 10400 5600
+Entry Wire Line
+	6400 5500 6500 5400
+Entry Wire Line
+	6400 5500 6500 5600
+Entry Wire Line
+	6600 5500 6700 5600
+Entry Wire Line
+	6800 5500 6900 5600
+Entry Wire Line
+	8000 5500 8100 5400
+Entry Wire Line
+	8000 5500 8100 5600
+Entry Wire Line
+	8500 5500 8600 5400
+Entry Wire Line
+	8600 5500 8700 5600
+Entry Wire Line
+	9100 5500 9200 5400
+Entry Wire Line
+	9200 5500 9300 5600
+Entry Wire Line
+	9700 5500 9800 5400
+Entry Wire Line
+	9800 5500 9900 5600
+Entry Wire Line
+	16500 8800 16600 8900
+Entry Wire Line
+	16500 8600 16600 8500
+Entry Wire Line
+	16500 8500 16600 8600
+Entry Wire Line
+	16500 8700 16600 8800
+Entry Wire Line
+	16500 8600 16600 8700
+Entry Wire Line
+	27850 8300 27950 8400
+Entry Wire Line
+	27850 8400 27950 8500
+Entry Wire Line
+	27850 8500 27950 8600
+Entry Wire Line
+	27850 8600 27950 8700
+Entry Wire Line
+	27850 8700 27950 8800
+Entry Wire Line
+	27850 8800 27950 8900
+Entry Wire Line
+	27850 8900 27950 9000
+Entry Wire Line
+	27850 9000 27950 9100
+Entry Wire Line
+	27850 9100 27950 9200
+Entry Wire Line
+	27850 9200 27950 9300
+Entry Wire Line
+	27850 9300 27950 9400
+Entry Wire Line
+	27850 9400 27950 9500
+Entry Wire Line
+	27850 9500 27950 9600
+Entry Wire Line
+	27850 9600 27950 9700
+Entry Wire Line
+	27850 9700 27950 9800
+Entry Wire Line
+	27850 9800 27950 9900
+Entry Wire Line
+	27850 10400 27950 10500
+Entry Wire Line
+	27850 10500 27950 10600
+Entry Wire Line
+	27850 10300 27950 10400
+Entry Wire Line
+	26050 8700 26150 8600
+Entry Wire Line
+	26050 8800 26150 8700
+Entry Wire Line
+	26050 8900 26150 8800
+Entry Wire Line
+	26050 9000 26150 8900
+Entry Wire Line
+	26050 9100 26150 9000
+Entry Wire Line
+	26050 9200 26150 9100
+Entry Wire Line
+	26050 9300 26150 9200
+Entry Wire Line
+	26050 9400 26150 9300
+Entry Wire Line
+	26050 9500 26150 9400
+Entry Wire Line
+	26050 9600 26150 9500
+Entry Wire Line
+	26050 9700 26150 9600
+Entry Wire Line
+	26050 9800 26150 9700
+Entry Wire Line
+	26050 9900 26150 9800
+Entry Wire Line
+	26050 10000 26150 9900
+Entry Wire Line
+	26050 10100 26150 10000
+Entry Wire Line
+	26050 10200 26150 10100
+Entry Wire Line
+	26050 10300 26150 10200
+Entry Wire Line
+	26050 10400 26150 10300
+Entry Wire Line
+	26050 10490 26150 10390
+Entry Wire Line
+	26050 10600 26150 10500
+Entry Wire Line
+	26050 10750 26150 10650
+Entry Wire Line
+	19200 11300 19300 11200
+Entry Wire Line
+	19100 11300 19200 11200
+Entry Wire Line
+	19400 11300 19500 11200
+Entry Wire Line
+	19300 11300 19400 11200
+Entry Wire Line
+	19600 11300 19700 11200
+Entry Wire Line
+	19000 11300 19100 11200
+Entry Wire Line
+	18700 11300 18800 11200
+Entry Wire Line
+	18800 11300 18900 11200
+Entry Wire Line
+	21100 11300 21200 11200
+Entry Wire Line
+	21200 11300 21300 11200
+Entry Wire Line
+	20500 11300 20600 11200
+Entry Wire Line
+	20800 11300 20900 11200
+Entry Wire Line
+	20900 11300 21000 11200
+Entry Wire Line
+	19800 11300 19900 11200
+Entry Wire Line
+	19700 11300 19800 11200
+Entry Wire Line
+	20000 11300 20100 11200
+Entry Wire Line
+	19900 11300 20000 11200
+Entry Wire Line
+	20200 11300 20300 11200
+Entry Wire Line
+	20100 11300 20200 11200
+Entry Wire Line
+	20400 11300 20500 11200
+Entry Wire Line
+	20300 11300 20400 11200
+Entry Wire Line
+	18900 11300 19000 11200
+Entry Wire Line
+	20600 11300 20700 11200
+Entry Wire Line
+	19500 11300 19600 11200
+Entry Wire Line
+	21000 11300 21100 11200
+Entry Wire Line
+	20700 11300 20800 11200
+Entry Wire Line
+	23800 9600 23900 9700
+Entry Wire Line
+	23800 9200 23900 9100
+Entry Wire Line
+	23800 9500 23900 9400
+Entry Wire Line
+	23800 9400 23900 9300
+Entry Wire Line
+	23800 9300 23900 9200
+Entry Wire Line
+	23800 9000 23900 9100
+Entry Wire Line
+	23800 9100 23900 9000
+$Comp
+L Papilio_DUO-eagle-import:FRAME_B_L #FRAME1
+U 1 0 10564A8B
+P 11500 14900
+AR Path="/10564A8B" Ref="#FRAME1"  Part="1" 
+AR Path="/5BB8C37A/10564A8B" Ref="#FRAME1"  Part="1" 
+F 0 "#FRAME1" H 11500 14900 50  0001 C CNN
+F 1 "FPGA S3E Cocoon" H 11500 14900 50  0001 C CNN
+F 2 "" H 11500 14900 50  0001 C CNN
+F 3 "" H 11500 14900 50  0001 C CNN
+	1    11500 14900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FRAME_B_L #FRAME1
+U 2 0 10564A87
+P 24300 14900
+AR Path="/10564A87" Ref="#FRAME1"  Part="2" 
+AR Path="/5BB8C37A/10564A87" Ref="#FRAME1"  Part="2" 
+F 0 "#FRAME1" H 24300 14900 50  0001 C CNN
+F 1 "FPGA S3E Cocoon" H 24300 14900 50  0001 C CNN
+F 2 "" H 24300 14900 50  0001 C CNN
+F 3 "" H 24300 14900 50  0001 C CNN
+	2    24300 14900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C12
+U 1 0 92B70C87
+P 6300 5700
+AR Path="/92B70C87" Ref="C12"  Part="1" 
+AR Path="/5BB8C37A/92B70C87" Ref="C12"  Part="1" 
+F 0 "C12" H 6200 5780 42  0000 L BNN
+F 1 ".1uF" H 6200 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 6300 5700 50  0001 C CNN
+F 3 "" H 6300 5700 50  0001 C CNN
+	1    6300 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C6
+U 1 0 57B86B78
+P 6500 5700
+AR Path="/57B86B78" Ref="C6"  Part="1" 
+AR Path="/5BB8C37A/57B86B78" Ref="C6"  Part="1" 
+F 0 "C6" H 6400 5780 42  0000 L BNN
+F 1 ".1uF" H 6400 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 6500 5700 50  0001 C CNN
+F 3 "" H 6500 5700 50  0001 C CNN
+	1    6500 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C33
+U 1 0 BD6DF226
+P 6700 5700
+AR Path="/BD6DF226" Ref="C33"  Part="1" 
+AR Path="/5BB8C37A/BD6DF226" Ref="C33"  Part="1" 
+F 0 "C33" H 6600 5780 42  0000 L BNN
+F 1 ".1uF" H 6600 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 6700 5700 50  0001 C CNN
+F 3 "" H 6700 5700 50  0001 C CNN
+	1    6700 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C23
+U 1 0 E5B7FB5B
+P 6900 5700
+AR Path="/E5B7FB5B" Ref="C23"  Part="1" 
+AR Path="/5BB8C37A/E5B7FB5B" Ref="C23"  Part="1" 
+F 0 "C23" H 6800 5780 42  0000 L BNN
+F 1 ".1uF" H 6800 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 6900 5700 50  0001 C CNN
+F 3 "" H 6900 5700 50  0001 C CNN
+	1    6900 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C32
+U 1 0 80A761C5
+P 7100 5700
+AR Path="/80A761C5" Ref="C32"  Part="1" 
+AR Path="/5BB8C37A/80A761C5" Ref="C32"  Part="1" 
+F 0 "C32" H 7000 5780 42  0000 L BNN
+F 1 ".1uF" H 7000 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 7100 5700 50  0001 C CNN
+F 3 "" H 7100 5700 50  0001 C CNN
+	1    7100 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C7
+U 1 0 12B462CC
+P 7300 5700
+AR Path="/12B462CC" Ref="C7"  Part="1" 
+AR Path="/5BB8C37A/12B462CC" Ref="C7"  Part="1" 
+F 0 "C7" H 7200 5780 42  0000 L BNN
+F 1 ".1uF" H 7200 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 7300 5700 50  0001 C CNN
+F 3 "" H 7300 5700 50  0001 C CNN
+	1    7300 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C10
+U 1 0 BD027223
+P 7500 5700
+AR Path="/BD027223" Ref="C10"  Part="1" 
+AR Path="/5BB8C37A/BD027223" Ref="C10"  Part="1" 
+F 0 "C10" H 7400 5780 42  0000 L BNN
+F 1 ".1uF" H 7400 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 7500 5700 50  0001 C CNN
+F 3 "" H 7500 5700 50  0001 C CNN
+	1    7500 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C13
+U 1 0 BA49DC91
+P 7700 5700
+AR Path="/BA49DC91" Ref="C13"  Part="1" 
+AR Path="/5BB8C37A/BA49DC91" Ref="C13"  Part="1" 
+F 0 "C13" H 7600 5780 42  0000 L BNN
+F 1 ".1uF" H 7600 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 7700 5700 50  0001 C CNN
+F 3 "" H 7700 5700 50  0001 C CNN
+	1    7700 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C25
+U 1 0 2940B5DD
+P 7900 5700
+AR Path="/2940B5DD" Ref="C25"  Part="1" 
+AR Path="/5BB8C37A/2940B5DD" Ref="C25"  Part="1" 
+F 0 "C25" H 7800 5780 42  0000 L BNN
+F 1 ".1uF" H 7800 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 7900 5700 50  0001 C CNN
+F 3 "" H 7900 5700 50  0001 C CNN
+	1    7900 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C11
+U 1 0 876EA701
+P 8100 5700
+AR Path="/876EA701" Ref="C11"  Part="1" 
+AR Path="/5BB8C37A/876EA701" Ref="C11"  Part="1" 
+F 0 "C11" H 8000 5780 42  0000 L BNN
+F 1 ".1uF" H 8000 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 8100 5700 50  0001 C CNN
+F 3 "" H 8100 5700 50  0001 C CNN
+	1    8100 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C24
+U 1 0 014F6FBB
+P 8400 5700
+AR Path="/014F6FBB" Ref="C24"  Part="1" 
+AR Path="/5BB8C37A/014F6FBB" Ref="C24"  Part="1" 
+F 0 "C24" H 8300 5780 42  0000 L BNN
+F 1 ".1uF" H 8300 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 8400 5700 50  0001 C CNN
+F 3 "" H 8400 5700 50  0001 C CNN
+	1    8400 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C21
+U 1 0 FB799E83
+P 9000 5700
+AR Path="/FB799E83" Ref="C21"  Part="1" 
+AR Path="/5BB8C37A/FB799E83" Ref="C21"  Part="1" 
+F 0 "C21" H 8900 5780 42  0000 L BNN
+F 1 ".1uF" H 8900 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 9000 5700 50  0001 C CNN
+F 3 "" H 9000 5700 50  0001 C CNN
+	1    9000 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C4
+U 1 0 D01FBD6C
+P 9300 5700
+AR Path="/D01FBD6C" Ref="C4"  Part="1" 
+AR Path="/5BB8C37A/D01FBD6C" Ref="C4"  Part="1" 
+F 0 "C4" H 9200 5780 42  0000 L BNN
+F 1 ".1uF" H 9200 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 9300 5700 50  0001 C CNN
+F 3 "" H 9300 5700 50  0001 C CNN
+	1    9300 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C5
+U 1 0 F819338A
+P 9600 5700
+AR Path="/F819338A" Ref="C5"  Part="1" 
+AR Path="/5BB8C37A/F819338A" Ref="C5"  Part="1" 
+F 0 "C5" H 9500 5780 42  0000 L BNN
+F 1 ".1uF" H 9500 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 9600 5700 50  0001 C CNN
+F 3 "" H 9600 5700 50  0001 C CNN
+	1    9600 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C22
+U 1 0 D641E440
+P 9900 5700
+AR Path="/D641E440" Ref="C22"  Part="1" 
+AR Path="/5BB8C37A/D641E440" Ref="C22"  Part="1" 
+F 0 "C22" H 9800 5780 42  0000 L BNN
+F 1 ".1uF" H 9800 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 9900 5700 50  0001 C CNN
+F 3 "" H 9900 5700 50  0001 C CNN
+	1    9900 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND2
+U 1 0 4877C9E2
+P 7100 6100
+AR Path="/4877C9E2" Ref="#GND2"  Part="1" 
+AR Path="/5BB8C37A/4877C9E2" Ref="#GND02"  Part="1" 
+F 0 "#GND02" H 7100 6100 50  0001 C CNN
+F 1 "GND" H 7010 6020 46  0000 L BNN
+F 2 "" H 7100 6100 50  0001 C CNN
+F 3 "" H 7100 6100 50  0001 C CNN
+	1    7100 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:OSC1 OSC
+U 1 0 9EE1978D
+P 2500 9300
+AR Path="/9EE1978D" Ref="OSC"  Part="1" 
+AR Path="/5BB8C37A/9EE1978D" Ref="OSC1"  Part="1" 
+F 0 "OSC1" H 2225 9525 78  0000 L BNB
+F 1 "OSC1" H 2225 9000 78  0000 L BNB
+F 2 "Papilio_DUO:OSC1" H 2500 9300 50  0001 C CNN
+F 3 "" H 2500 9300 50  0001 C CNN
+	1    2500 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C26
+U 1 0 78B64BEF
+P 10200 5700
+AR Path="/78B64BEF" Ref="C26"  Part="1" 
+AR Path="/5BB8C37A/78B64BEF" Ref="C26"  Part="1" 
+F 0 "C26" H 10100 5780 42  0000 L BNN
+F 1 ".1uF" H 10100 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 10200 5700 50  0001 C CNN
+F 3 "" H 10200 5700 50  0001 C CNN
+	1    10200 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FRAME-A4L-LOC #FRAME2
+U 1 0 B9163575
+P 1000 14900
+AR Path="/B9163575" Ref="#FRAME2"  Part="1" 
+AR Path="/5BB8C37A/B9163575" Ref="#FRAME2"  Part="1" 
+F 0 "#FRAME2" H 1000 14900 50  0001 C CNN
+F 1 "FRAME-A4L-LOC" H 1000 14900 50  0001 C CNN
+F 2 "" H 1000 14900 50  0001 C CNN
+F 3 "" H 1000 14900 50  0001 C CNN
+	1    1000 14900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FRAME-A4L-LOC #FRAME4
+U 1 0 5A84812C
+P 1000 7800
+AR Path="/5A84812C" Ref="#FRAME4"  Part="1" 
+AR Path="/5BB8C37A/5A84812C" Ref="#FRAME4"  Part="1" 
+F 0 "#FRAME4" H 1000 7800 50  0001 C CNN
+F 1 "FRAME-A4L-LOC" H 1000 7800 50  0001 C CNN
+F 2 "" H 1000 7800 50  0001 C CNN
+F 3 "" H 1000 7800 50  0001 C CNN
+	1    1000 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FLASH-SPI-25XXSMD1 FLASH
+U 1 0 F92E3C64
+P 8300 11600
+AR Path="/F92E3C64" Ref="FLASH"  Part="1" 
+AR Path="/5BB8C37A/F92E3C64" Ref="FLASH1"  Part="1" 
+F 0 "FLASH1" H 8100 11900 42  0000 R TNN
+F 1 "FLASH-SPI-25XXSMD1" H 7900 11200 42  0000 L BNN
+F 2 "Papilio_DUO:SO08-EIAJ" H 8300 11600 50  0001 C CNN
+F 3 "" H 8300 11600 50  0001 C CNN
+	1    8300 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 1 0 788C9994
+P 17500 8100
+AR Path="/788C9994" Ref="S1"  Part="1" 
+AR Path="/5BB8C37A/788C9994" Ref="S1"  Part="1" 
+F 0 "S1" H 17500 7700 59  0000 R BNN
+F 1 "6SLX9TQG144" H 17500 7600 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 17500 8100 50  0001 C CNN
+F 3 "" H 17500 8100 50  0001 C CNN
+	1    17500 8100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 2 0 788C9998
+P 20200 6100
+AR Path="/788C9998" Ref="S1"  Part="2" 
+AR Path="/5BB8C37A/788C9998" Ref="S1"  Part="2" 
+F 0 "S1" H 20200 5700 59  0000 R BNN
+F 1 "6SLX9TQG144" H 20200 5600 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 20200 6100 50  0001 C CNN
+F 3 "" H 20200 6100 50  0001 C CNN
+	2    20200 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 3 0 788C999C
+P 22800 8300
+AR Path="/788C999C" Ref="S1"  Part="3" 
+AR Path="/5BB8C37A/788C999C" Ref="S1"  Part="3" 
+F 0 "S1" H 22800 7900 59  0000 R BNN
+F 1 "6SLX9TQG144" H 22800 7800 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 22800 8300 50  0001 C CNN
+F 3 "" H 22800 8300 50  0001 C CNN
+	3    22800 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 4 0 788C9980
+P 20200 10100
+AR Path="/788C9980" Ref="S1"  Part="4" 
+AR Path="/5BB8C37A/788C9980" Ref="S1"  Part="4" 
+F 0 "S1" H 20200 9700 59  0000 R BNN
+F 1 "6SLX9TQG144" H 20200 9600 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 20200 10100 50  0001 C CNN
+F 3 "" H 20200 10100 50  0001 C CNN
+	4    20200 10100
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 5 0 788C9984
+P 6900 3000
+AR Path="/788C9984" Ref="S1"  Part="5" 
+AR Path="/5BB8C37A/788C9984" Ref="S1"  Part="5" 
+F 0 "S1" H 6900 2600 59  0000 R BNN
+F 1 "6SLX9TQG144" H 6900 2500 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 6900 3000 50  0001 C CNN
+F 3 "" H 6900 3000 50  0001 C CNN
+	5    6900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 6 0 788C9988
+P 21500 12600
+AR Path="/788C9988" Ref="S1"  Part="6" 
+AR Path="/5BB8C37A/788C9988" Ref="S1"  Part="6" 
+F 0 "S1" H 21500 12200 59  0000 R BNN
+F 1 "6SLX9TQG144" H 21500 12100 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 21500 12600 50  0001 C CNN
+F 3 "" H 21500 12600 50  0001 C CNN
+	6    21500 12600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 7 0 788C998C
+P 8800 3200
+AR Path="/788C998C" Ref="S1"  Part="7" 
+AR Path="/5BB8C37A/788C998C" Ref="S1"  Part="7" 
+F 0 "S1" H 8800 2800 59  0000 R BNN
+F 1 "6SLX9TQG144" H 8800 2700 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 8800 3200 50  0001 C CNN
+F 3 "" H 8800 3200 50  0001 C CNN
+	7    8800 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:6SLX9TQG144 S1
+U 8 0 788C99B0
+P 9900 3200
+AR Path="/788C99B0" Ref="S1"  Part="8" 
+AR Path="/5BB8C37A/788C99B0" Ref="S1"  Part="8" 
+F 0 "S1" H 9900 2800 59  0000 R BNN
+F 1 "6SLX9TQG144" H 9900 2700 59  0000 R BNN
+F 2 "Papilio_DUO:TQ144" H 9900 3200 50  0001 C CNN
+F 3 "" H 9900 3200 50  0001 C CNN
+	8    9900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR6
+U 1 0 34D5CA74
+P 26450 11100
+AR Path="/34D5CA74" Ref="#GND_PWR6"  Part="1" 
+AR Path="/5BB8C37A/34D5CA74" Ref="#GND_PWR06"  Part="1" 
+F 0 "#GND_PWR06" H 26450 11100 50  0001 C CNN
+F 1 "GND" H 26360 11020 46  0000 L BNN
+F 2 "" H 26450 11100 50  0001 C CNN
+F 3 "" H 26450 11100 50  0001 C CNN
+	1    26450 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR14
+U 1 0 D69E63F9
+P 26400 8100
+AR Path="/D69E63F9" Ref="#3V3_PWR14"  Part="1" 
+AR Path="/5BB8C37A/D69E63F9" Ref="#3V3_PWR014"  Part="1" 
+F 0 "#3V3_PWR014" H 26400 8100 50  0001 C CNN
+F 1 "3V3" H 26330 8225 46  0000 L BNN
+F 2 "" H 26400 8100 50  0001 C CNN
+F 3 "" H 26400 8100 50  0001 C CNN
+	1    26400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR2
+U 1 0 CF4496EF
+P 23100 8100
+AR Path="/CF4496EF" Ref="#GND_PWR2"  Part="1" 
+AR Path="/5BB8C37A/CF4496EF" Ref="#GND_PWR02"  Part="1" 
+F 0 "#GND_PWR02" H 23100 8100 50  0001 C CNN
+F 1 "GND" H 23010 8020 46  0000 L BNN
+F 2 "" H 23100 8100 50  0001 C CNN
+F 3 "" H 23100 8100 50  0001 C CNN
+	1    23100 8100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR1
+U 1 0 04340FB3
+P 23600 7100
+AR Path="/04340FB3" Ref="#3V3_PWR1"  Part="1" 
+AR Path="/5BB8C37A/04340FB3" Ref="#3V3_PWR01"  Part="1" 
+F 0 "#3V3_PWR01" H 23600 7100 50  0001 C CNN
+F 1 "3V3" H 23530 7225 46  0000 L BNN
+F 2 "" H 23600 7100 50  0001 C CNN
+F 3 "" H 23600 7100 50  0001 C CNN
+	1    23600 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR3
+U 1 0 B1FC1435
+P 21800 12400
+AR Path="/B1FC1435" Ref="#GND_PWR3"  Part="1" 
+AR Path="/5BB8C37A/B1FC1435" Ref="#GND_PWR03"  Part="1" 
+F 0 "#GND_PWR03" H 21800 12400 50  0001 C CNN
+F 1 "GND" H 21710 12320 46  0000 L BNN
+F 2 "" H 21800 12400 50  0001 C CNN
+F 3 "" H 21800 12400 50  0001 C CNN
+	1    21800 12400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR4
+U 1 0 332E11B4
+P 7100 4100
+AR Path="/332E11B4" Ref="#GND_PWR4"  Part="1" 
+AR Path="/5BB8C37A/332E11B4" Ref="#GND_PWR04"  Part="1" 
+F 0 "#GND_PWR04" H 7100 4100 50  0001 C CNN
+F 1 "GND" H 7010 4020 46  0000 L BNN
+F 2 "" H 7100 4100 50  0001 C CNN
+F 3 "" H 7100 4100 50  0001 C CNN
+	1    7100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR2
+U 1 0 E24115B1
+P 9000 2600
+AR Path="/E24115B1" Ref="#3V3_PWR2"  Part="1" 
+AR Path="/5BB8C37A/E24115B1" Ref="#3V3_PWR02"  Part="1" 
+F 0 "#3V3_PWR02" H 9000 2600 50  0001 C CNN
+F 1 "3V3" H 8930 2725 46  0000 L BNN
+F 2 "" H 9000 2600 50  0001 C CNN
+F 3 "" H 9000 2600 50  0001 C CNN
+	1    9000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:1V2 #1V2_PWR1
+U 1 0 EC3E12B6
+P 10100 2600
+AR Path="/EC3E12B6" Ref="#1V2_PWR1"  Part="1" 
+AR Path="/5BB8C37A/EC3E12B6" Ref="#1V2_PWR01"  Part="1" 
+F 0 "#1V2_PWR01" H 10100 2600 50  0001 C CNN
+F 1 "1V2" H 10030 2725 46  0000 L BNN
+F 2 "" H 10100 2600 50  0001 C CNN
+F 3 "" H 10100 2600 50  0001 C CNN
+	1    10100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR4
+U 1 0 84A817FF
+P 21900 10200
+AR Path="/84A817FF" Ref="#3V3_PWR4"  Part="1" 
+AR Path="/5BB8C37A/84A817FF" Ref="#3V3_PWR04"  Part="1" 
+F 0 "#3V3_PWR04" H 21900 10200 50  0001 C CNN
+F 1 "3V3" H 21830 10325 46  0000 L BNN
+F 2 "" H 21900 10200 50  0001 C CNN
+F 3 "" H 21900 10200 50  0001 C CNN
+	1    21900 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR5
+U 1 0 A106E2FA
+P 23000 6400
+AR Path="/A106E2FA" Ref="#3V3_PWR5"  Part="1" 
+AR Path="/5BB8C37A/A106E2FA" Ref="#3V3_PWR05"  Part="1" 
+F 0 "#3V3_PWR05" H 23000 6400 50  0001 C CNN
+F 1 "3V3" H 22930 6525 46  0000 L BNN
+F 2 "" H 23000 6400 50  0001 C CNN
+F 3 "" H 23000 6400 50  0001 C CNN
+	1    23000 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR6
+U 1 0 F4B3E1E9
+P 18600 5800
+AR Path="/F4B3E1E9" Ref="#3V3_PWR6"  Part="1" 
+AR Path="/5BB8C37A/F4B3E1E9" Ref="#3V3_PWR06"  Part="1" 
+F 0 "#3V3_PWR06" H 18600 5800 50  0001 C CNN
+F 1 "3V3" H 18530 5925 46  0000 L BNN
+F 2 "" H 18600 5800 50  0001 C CNN
+F 3 "" H 18600 5800 50  0001 C CNN
+	1    18600 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR7
+U 1 0 84556A01
+P 17300 9900
+AR Path="/84556A01" Ref="#3V3_PWR7"  Part="1" 
+AR Path="/5BB8C37A/84556A01" Ref="#3V3_PWR07"  Part="1" 
+F 0 "#3V3_PWR07" H 17300 9900 50  0001 C CNN
+F 1 "3V3" H 17230 10025 46  0000 L BNN
+F 2 "" H 17300 9900 50  0001 C CNN
+F 3 "" H 17300 9900 50  0001 C CNN
+	1    17300 9900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0805 R31
+U 1 0 1FA6DCEA
+P 24900 9600
+AR Path="/1FA6DCEA" Ref="R31"  Part="1" 
+AR Path="/5BB8C37A/1FA6DCEA" Ref="R31"  Part="1" 
+F 0 "R31" H 24800 9660 50  0001 L BNN
+F 1 "47K" H 24750 9470 50  0001 L BNN
+F 2 "Papilio_DUO:0805" H 24900 9600 50  0001 C CNN
+F 3 "" H 24900 9600 50  0001 C CNN
+	1    24900 9600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR3
+U 1 0 ED58D24B
+P 24900 9300
+AR Path="/ED58D24B" Ref="#3V3_PWR3"  Part="1" 
+AR Path="/5BB8C37A/ED58D24B" Ref="#3V3_PWR03"  Part="1" 
+F 0 "#3V3_PWR03" H 24900 9300 50  0001 C CNN
+F 1 "3V3" H 24830 9425 46  0000 L BNN
+F 2 "" H 24900 9300 50  0001 C CNN
+F 3 "" H 24900 9300 50  0001 C CNN
+	1    24900 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND1
+U 1 0 8DA2BB24
+P 25500 9900
+AR Path="/8DA2BB24" Ref="#GND1"  Part="1" 
+AR Path="/5BB8C37A/8DA2BB24" Ref="#GND01"  Part="1" 
+F 0 "#GND01" H 25500 9900 50  0001 C CNN
+F 1 "GND" H 25410 9820 46  0000 L BNN
+F 2 "" H 25500 9900 50  0001 C CNN
+F 3 "" H 25500 9900 50  0001 C CNN
+	1    25500 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:EVQQ2 SW2
+U 1 0 E12904EF
+P 25300 9700
+AR Path="/E12904EF" Ref="SW2"  Part="1" 
+AR Path="/5BB8C37A/E12904EF" Ref="SW2"  Part="1" 
+F 0 "SW2" V 25050 9600 59  0000 L BNN
+F 1 "EVQQ2" V 25150 9825 59  0000 L BNN
+F 2 "Papilio_DUO:EVQ-Q2" H 25300 9700 50  0001 C CNN
+F 3 "" H 25300 9700 50  0001 C CNN
+	1    25300 9700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER1
+U 1 0 49170CAD
+P 1800 2300
+AR Path="/49170CAD" Ref="WING_POWER1"  Part="1" 
+AR Path="/5BB8C37A/49170CAD" Ref="WING_POWER1"  Part="1" 
+F 0 "WING_POWER1" H 1800 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 1800 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 1800 2300 50  0001 C CNN
+F 3 "" H 1800 2300 50  0001 C CNN
+	1    1800 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER2
+U 1 0 EAA05E63
+P 2500 2300
+AR Path="/EAA05E63" Ref="WING_POWER2"  Part="1" 
+AR Path="/5BB8C37A/EAA05E63" Ref="WING_POWER2"  Part="1" 
+F 0 "WING_POWER2" H 2500 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 2500 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 2500 2300 50  0001 C CNN
+F 3 "" H 2500 2300 50  0001 C CNN
+	1    2500 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER3
+U 1 0 24922860
+P 3200 2300
+AR Path="/24922860" Ref="WING_POWER3"  Part="1" 
+AR Path="/5BB8C37A/24922860" Ref="WING_POWER3"  Part="1" 
+F 0 "WING_POWER3" H 3200 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 3200 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 3200 2300 50  0001 C CNN
+F 3 "" H 3200 2300 50  0001 C CNN
+	1    3200 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER4
+U 1 0 C62D5A9D
+P 3900 2300
+AR Path="/C62D5A9D" Ref="WING_POWER4"  Part="1" 
+AR Path="/5BB8C37A/C62D5A9D" Ref="WING_POWER4"  Part="1" 
+F 0 "WING_POWER4" H 3900 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 3900 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 3900 2300 50  0001 C CNN
+F 3 "" H 3900 2300 50  0001 C CNN
+	1    3900 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER5
+U 1 0 C9F4394A
+P 4600 2300
+AR Path="/C9F4394A" Ref="WING_POWER5"  Part="1" 
+AR Path="/5BB8C37A/C9F4394A" Ref="WING_POWER5"  Part="1" 
+F 0 "WING_POWER5" H 4600 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 4600 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 4600 2300 50  0001 C CNN
+F 3 "" H 4600 2300 50  0001 C CNN
+	1    4600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:POWER_ONLYNOTEXT WING_POWER6
+U 1 0 B1A8ABBE
+P 5300 2300
+AR Path="/B1A8ABBE" Ref="WING_POWER6"  Part="1" 
+AR Path="/5BB8C37A/B1A8ABBE" Ref="WING_POWER6"  Part="1" 
+F 0 "WING_POWER6" H 5300 2200 59  0000 L BNN
+F 1 "HEADER_FEMALE_4" H 5300 2300 50  0001 C CNN
+F 2 "Papilio_DUO:POWER_NO_TEXT" H 5300 2300 50  0001 C CNN
+F 3 "" H 5300 2300 50  0001 C CNN
+	1    5300 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR7
+U 1 0 AD9AC830
+P 1300 1600
+AR Path="/AD9AC830" Ref="#GND_PWR7"  Part="1" 
+AR Path="/5BB8C37A/AD9AC830" Ref="#GND_PWR07"  Part="1" 
+F 0 "#GND_PWR07" H 1300 1600 50  0001 C CNN
+F 1 "GND" H 1210 1520 46  0000 L BNN
+F 2 "" H 1300 1600 50  0001 C CNN
+F 3 "" H 1300 1600 50  0001 C CNN
+	1    1300 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR9
+U 1 0 55594EAC
+P 1600 1700
+AR Path="/55594EAC" Ref="#3V3_PWR9"  Part="1" 
+AR Path="/5BB8C37A/55594EAC" Ref="#3V3_PWR09"  Part="1" 
+F 0 "#3V3_PWR09" H 1600 1700 50  0001 C CNN
+F 1 "3V3" H 1530 1825 46  0000 L BNN
+F 2 "" H 1600 1700 50  0001 C CNN
+F 3 "" H 1600 1700 50  0001 C CNN
+	1    1600 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:5V0 #5V0_PWR4
+U 1 0 53F43567
+P 1700 1900
+AR Path="/53F43567" Ref="#5V0_PWR4"  Part="1" 
+AR Path="/5BB8C37A/53F43567" Ref="#5V0_PWR04"  Part="1" 
+F 0 "#5V0_PWR04" H 1700 1900 50  0001 C CNN
+F 1 "5V0" H 1630 2025 46  0000 L BNN
+F 2 "" H 1700 1900 50  0001 C CNN
+F 3 "" H 1700 1900 50  0001 C CNN
+	1    1700 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:5V0 #5V0_PWR5
+U 1 0 8A3E7CF2
+P 13700 8800
+AR Path="/8A3E7CF2" Ref="#5V0_PWR5"  Part="1" 
+AR Path="/5BB8C37A/8A3E7CF2" Ref="#5V0_PWR05"  Part="1" 
+F 0 "#5V0_PWR05" H 13700 8800 50  0001 C CNN
+F 1 "5V0" H 13630 8925 46  0000 L BNN
+F 2 "" H 13700 8800 50  0001 C CNN
+F 3 "" H 13700 8800 50  0001 C CNN
+	1    13700 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND_PWR8
+U 1 0 BAC09FF1
+P 13700 9400
+AR Path="/BAC09FF1" Ref="#GND_PWR8"  Part="1" 
+AR Path="/5BB8C37A/BAC09FF1" Ref="#GND_PWR08"  Part="1" 
+F 0 "#GND_PWR08" H 13700 9400 50  0001 C CNN
+F 1 "GND" H 13610 9320 46  0000 L BNN
+F 2 "" H 13700 9400 50  0001 C CNN
+F 3 "" H 13700 9400 50  0001 C CNN
+	1    13700 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR10
+U 1 0 B28945F1
+P 13900 8900
+AR Path="/B28945F1" Ref="#3V3_PWR10"  Part="1" 
+AR Path="/5BB8C37A/B28945F1" Ref="#3V3_PWR010"  Part="1" 
+F 0 "#3V3_PWR010" H 13900 8900 50  0001 C CNN
+F 1 "3V3" H 13830 9025 46  0000 L BNN
+F 2 "" H 13900 8900 50  0001 C CNN
+F 3 "" H 13900 8900 50  0001 C CNN
+	1    13900 8900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:ARDUINO_MEGA_SHIELD U1
+U 1 0 94FABF20
+P 14500 7600
+AR Path="/94FABF20" Ref="U1"  Part="1" 
+AR Path="/5BB8C37A/94FABF20" Ref="U1"  Part="1" 
+F 0 "U1" H 14120 8430 59  0000 L BNN
+F 1 "ARDUINO_MEGA_SHIELD" H 14150 3800 59  0000 L BNN
+F 2 "Papilio_DUO:ARDUINO_MEGA_SHIELD" H 14500 7600 50  0001 C CNN
+F 3 "" H 14500 7600 50  0001 C CNN
+	1    14500 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R19
+U 1 0 CB13DB7B
+P 15300 7200
+AR Path="/CB13DB7B" Ref="R19"  Part="1" 
+AR Path="/5BB8C37A/CB13DB7B" Ref="R19"  Part="1" 
+F 0 "R19" H 15200 7260 50  0001 L BNN
+F 1 "390" H 15198 7165 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7200 50  0001 C CNN
+F 3 "" H 15300 7200 50  0001 C CNN
+	1    15300 7200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R18
+U 1 0 827F27D0
+P 15300 7300
+AR Path="/827F27D0" Ref="R18"  Part="1" 
+AR Path="/5BB8C37A/827F27D0" Ref="R18"  Part="1" 
+F 0 "R18" H 15200 7360 50  0001 L BNN
+F 1 "390" H 15198 7265 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7300 50  0001 C CNN
+F 3 "" H 15300 7300 50  0001 C CNN
+	1    15300 7300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R17
+U 1 0 136E2D3B
+P 15300 7400
+AR Path="/136E2D3B" Ref="R17"  Part="1" 
+AR Path="/5BB8C37A/136E2D3B" Ref="R17"  Part="1" 
+F 0 "R17" H 15200 7460 50  0001 L BNN
+F 1 "390" H 15198 7365 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7400 50  0001 C CNN
+F 3 "" H 15300 7400 50  0001 C CNN
+	1    15300 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R16
+U 1 0 2921E838
+P 15300 7500
+AR Path="/2921E838" Ref="R16"  Part="1" 
+AR Path="/5BB8C37A/2921E838" Ref="R16"  Part="1" 
+F 0 "R16" H 15200 7560 50  0001 L BNN
+F 1 "390" H 15198 7465 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7500 50  0001 C CNN
+F 3 "" H 15300 7500 50  0001 C CNN
+	1    15300 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R15
+U 1 0 52511760
+P 15300 7600
+AR Path="/52511760" Ref="R15"  Part="1" 
+AR Path="/5BB8C37A/52511760" Ref="R15"  Part="1" 
+F 0 "R15" H 15200 7660 50  0001 L BNN
+F 1 "390" H 15198 7565 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7600 50  0001 C CNN
+F 3 "" H 15300 7600 50  0001 C CNN
+	1    15300 7600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R14
+U 1 0 E6446CA2
+P 15300 7700
+AR Path="/E6446CA2" Ref="R14"  Part="1" 
+AR Path="/5BB8C37A/E6446CA2" Ref="R14"  Part="1" 
+F 0 "R14" H 15200 7760 50  0001 L BNN
+F 1 "390" H 15198 7665 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7700 50  0001 C CNN
+F 3 "" H 15300 7700 50  0001 C CNN
+	1    15300 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R13
+U 1 0 E9D48F86
+P 15300 7800
+AR Path="/E9D48F86" Ref="R13"  Part="1" 
+AR Path="/5BB8C37A/E9D48F86" Ref="R13"  Part="1" 
+F 0 "R13" H 15200 7860 50  0001 L BNN
+F 1 "390" H 15198 7765 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7800 50  0001 C CNN
+F 3 "" H 15300 7800 50  0001 C CNN
+	1    15300 7800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R12
+U 1 0 4693D0B4
+P 15300 7900
+AR Path="/4693D0B4" Ref="R12"  Part="1" 
+AR Path="/5BB8C37A/4693D0B4" Ref="R12"  Part="1" 
+F 0 "R12" H 15200 7960 50  0001 L BNN
+F 1 "390" H 15198 7865 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7900 50  0001 C CNN
+F 3 "" H 15300 7900 50  0001 C CNN
+	1    15300 7900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R11
+U 1 0 89CDCBFF
+P 15300 8000
+AR Path="/89CDCBFF" Ref="R11"  Part="1" 
+AR Path="/5BB8C37A/89CDCBFF" Ref="R11"  Part="1" 
+F 0 "R11" H 15200 8060 50  0001 L BNN
+F 1 "390" H 15198 7965 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 8000 50  0001 C CNN
+F 3 "" H 15300 8000 50  0001 C CNN
+	1    15300 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R10
+U 1 0 7FE3BB02
+P 15300 8100
+AR Path="/7FE3BB02" Ref="R10"  Part="1" 
+AR Path="/5BB8C37A/7FE3BB02" Ref="R10"  Part="1" 
+F 0 "R10" H 15200 8160 50  0001 L BNN
+F 1 "390" H 15198 8065 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 8100 50  0001 C CNN
+F 3 "" H 15300 8100 50  0001 C CNN
+	1    15300 8100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R9
+U 1 0 9DAEA4E9
+P 15300 8200
+AR Path="/9DAEA4E9" Ref="R9"  Part="1" 
+AR Path="/5BB8C37A/9DAEA4E9" Ref="R9"  Part="1" 
+F 0 "R9" H 15200 8260 50  0001 L BNN
+F 1 "390" H 15198 8165 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 8200 50  0001 C CNN
+F 3 "" H 15300 8200 50  0001 C CNN
+	1    15300 8200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R8
+U 1 0 8FC67F3E
+P 15300 8300
+AR Path="/8FC67F3E" Ref="R8"  Part="1" 
+AR Path="/5BB8C37A/8FC67F3E" Ref="R8"  Part="1" 
+F 0 "R8" H 15200 8360 50  0001 L BNN
+F 1 "390" H 15198 8265 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 8300 50  0001 C CNN
+F 3 "" H 15300 8300 50  0001 C CNN
+	1    15300 8300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R20
+U 1 0 D52BA09E
+P 15300 7000
+AR Path="/D52BA09E" Ref="R20"  Part="1" 
+AR Path="/5BB8C37A/D52BA09E" Ref="R20"  Part="1" 
+F 0 "R20" H 15200 7060 50  0001 L BNN
+F 1 "390" H 15198 6965 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 7000 50  0001 C CNN
+F 3 "" H 15300 7000 50  0001 C CNN
+	1    15300 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R21
+U 1 0 B28EA647
+P 15300 6900
+AR Path="/B28EA647" Ref="R21"  Part="1" 
+AR Path="/5BB8C37A/B28EA647" Ref="R21"  Part="1" 
+F 0 "R21" H 15200 6960 50  0001 L BNN
+F 1 "390" H 15198 6865 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 15300 6900 50  0001 C CNN
+F 3 "" H 15300 6900 50  0001 C CNN
+	1    15300 6900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:JTAG_XILINX U$1
+U 1 0 89E33A62
+P 6200 9400
+AR Path="/89E33A62" Ref="U$1"  Part="1" 
+AR Path="/5BB8C37A/89E33A62" Ref="U$1"  Part="1" 
+F 0 "U$1" H 5850 9825 59  0000 L BNN
+F 1 "JTAG_XILINX" H 5850 9000 59  0000 L BNN
+F 2 "Papilio_DUO:JTAG" H 6200 9400 50  0001 C CNN
+F 3 "" H 6200 9400 50  0001 C CNN
+	1    6200 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:ISSI_SRAM_8BIT SRAM
+U 1 0 3A972CF4
+P 26600 11000
+AR Path="/3A972CF4" Ref="SRAM"  Part="1" 
+AR Path="/5BB8C37A/3A972CF4" Ref="SRAM1"  Part="1" 
+F 0 "SRAM1" H 26600 13820 59  0000 L BNN
+F 1 "ISSI_SRAM_8BIT" H 26600 10900 59  0000 L BNN
+F 2 "Papilio_DUO:TSOP44-II" H 26600 11000 50  0001 C CNN
+F 3 "" H 26600 11000 50  0001 C CNN
+	1    26600 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R32
+U 1 0 697FFF0B
+P 24200 9450
+AR Path="/697FFF0B" Ref="R32"  Part="1" 
+AR Path="/5BB8C37A/697FFF0B" Ref="R32"  Part="1" 
+F 0 "R32" H 24100 9510 50  0001 L BNN
+F 1 "4.7K" H 24050 9320 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 24200 9450 50  0001 C CNN
+F 3 "" H 24200 9450 50  0001 C CNN
+	1    24200 9450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR8
+U 1 0 025EF6E5
+P 24200 9200
+AR Path="/025EF6E5" Ref="#3V3_PWR8"  Part="1" 
+AR Path="/5BB8C37A/025EF6E5" Ref="#3V3_PWR08"  Part="1" 
+F 0 "#3V3_PWR08" H 24200 9200 50  0001 C CNN
+F 1 "3V3" H 24130 9325 46  0000 L BNN
+F 2 "" H 24200 9200 50  0001 C CNN
+F 3 "" H 24200 9200 50  0001 C CNN
+	1    24200 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:SWITCH-2CH-6P-3010010P1 SW1
+U 1 0 F85A3293
+P 4244 12200
+AR Path="/F85A3293" Ref="SW1"  Part="1" 
+AR Path="/5BB8C37A/F85A3293" Ref="SW1"  Part="1" 
+F 0 "SW1" H 4194 12450 42  0000 L BNN
+F 1 "SWITCH-2CH-6P-3010010P1" H 4244 12350 42  0001 L BNN
+F 2 "Papilio_DUO:6P-2CH-2.54-9.1X3.5X3.2+2H" H 4244 12200 50  0001 C CNN
+F 3 "" H 4244 12200 50  0001 C CNN
+	1    4244 12200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND7
+U 1 0 C2693486
+P 4700 12400
+AR Path="/C2693486" Ref="#GND7"  Part="1" 
+AR Path="/5BB8C37A/C2693486" Ref="#GND07"  Part="1" 
+F 0 "#GND07" H 4700 12400 50  0001 C CNN
+F 1 "GND" H 4610 12320 46  0000 L BNN
+F 2 "" H 4700 12400 50  0001 C CNN
+F 3 "" H 4700 12400 50  0001 C CNN
+	1    4700 12400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR12
+U 1 0 AE7F0432
+P 4700 12000
+AR Path="/AE7F0432" Ref="#3V3_PWR12"  Part="1" 
+AR Path="/5BB8C37A/AE7F0432" Ref="#3V3_PWR012"  Part="1" 
+F 0 "#3V3_PWR012" H 4700 12000 50  0001 C CNN
+F 1 "3V3" H 4630 12125 46  0000 L BNN
+F 2 "" H 4700 12000 50  0001 C CNN
+F 3 "" H 4700 12000 50  0001 C CNN
+	1    4700 12000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR13
+U 1 0 A61BEA26
+P 13400 7900
+AR Path="/A61BEA26" Ref="#3V3_PWR13"  Part="1" 
+AR Path="/5BB8C37A/A61BEA26" Ref="#3V3_PWR013"  Part="1" 
+F 0 "#3V3_PWR013" H 13400 7900 50  0001 C CNN
+F 1 "3V3" H 13330 8025 46  0000 L BNN
+F 2 "" H 13400 7900 50  0001 C CNN
+F 3 "" H 13400 7900 50  0001 C CNN
+	1    13400 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND12
+U 1 0 8C4C494A
+P 3000 12300
+AR Path="/8C4C494A" Ref="#GND12"  Part="1" 
+AR Path="/5BB8C37A/8C4C494A" Ref="#GND012"  Part="1" 
+F 0 "#GND012" H 3000 12300 50  0001 C CNN
+F 1 "GND" H 2910 12220 46  0000 L BNN
+F 2 "" H 3000 12300 50  0001 C CNN
+F 3 "" H 3000 12300 50  0001 C CNN
+	1    3000 12300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR17
+U 1 0 F0ECD42C
+P 3000 11900
+AR Path="/F0ECD42C" Ref="#3V3_PWR17"  Part="1" 
+AR Path="/5BB8C37A/F0ECD42C" Ref="#3V3_PWR017"  Part="1" 
+F 0 "#3V3_PWR017" H 3000 11900 50  0001 C CNN
+F 1 "3V3" H 2930 12025 46  0000 L BNN
+F 2 "" H 3000 11900 50  0001 C CNN
+F 3 "" H 3000 11900 50  0001 C CNN
+	1    3000 11900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3V3 #3V3_PWR18
+U 1 0 FA375CAF
+P 17200 9100
+AR Path="/FA375CAF" Ref="#3V3_PWR18"  Part="1" 
+AR Path="/5BB8C37A/FA375CAF" Ref="#3V3_PWR018"  Part="1" 
+F 0 "#3V3_PWR018" H 17200 9100 50  0001 C CNN
+F 1 "3V3" H 17130 9225 46  0000 L BNN
+F 2 "" H 17200 9100 50  0001 C CNN
+F 3 "" H 17200 9100 50  0001 C CNN
+	1    17200 9100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:5V0 #5V0_PWR1
+U 1 0 2EE3AFB4
+P 13800 7600
+AR Path="/2EE3AFB4" Ref="#5V0_PWR1"  Part="1" 
+AR Path="/5BB8C37A/2EE3AFB4" Ref="#5V0_PWR01"  Part="1" 
+F 0 "#5V0_PWR01" H 13800 7600 50  0001 C CNN
+F 1 "5V0" H 13730 7725 46  0000 L BNN
+F 2 "" H 13800 7600 50  0001 C CNN
+F 3 "" H 13800 7600 50  0001 C CNN
+	1    13800 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C35
+U 1 0 4794F6CD
+P 8700 5700
+AR Path="/4794F6CD" Ref="C35"  Part="1" 
+AR Path="/5BB8C37A/4794F6CD" Ref="C35"  Part="1" 
+F 0 "C35" H 8600 5780 42  0000 L BNN
+F 1 ".1uF" H 8600 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 8700 5700 50  0001 C CNN
+F 3 "" H 8700 5700 50  0001 C CNN
+	1    8700 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:C0603 C36
+U 1 0 2F637629
+P 10400 5700
+AR Path="/2F637629" Ref="C36"  Part="1" 
+AR Path="/5BB8C37A/2F637629" Ref="C36"  Part="1" 
+F 0 "C36" H 10300 5780 42  0000 L BNN
+F 1 ".1uF" H 10300 5570 42  0000 L BNN
+F 2 "Papilio_DUO:0603" H 10400 5700 50  0001 C CNN
+F 3 "" H 10400 5700 50  0001 C CNN
+	1    10400 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_0-7
+U 1 0 4DF7117D
+P 12000 13000
+AR Path="/4DF7117D" Ref="#HEADER_0-7"  Part="1" 
+AR Path="/5BB8C37A/4DF7117D" Ref="#HEADER_0-7"  Part="1" 
+F 0 "#HEADER_0-7" H 12050 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_8" H 12050 12825 59  0000 L BNN
+F 2 "" H 12000 13000 50  0001 C CNN
+F 3 "" H 12000 13000 50  0001 C CNN
+	1    12000 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_8-AREF
+U 1 0 3203B126
+P 13100 13000
+AR Path="/3203B126" Ref="#HEADER_8-AREF"  Part="1" 
+AR Path="/5BB8C37A/3203B126" Ref="#HEADER_8-AREF1"  Part="1" 
+F 0 "#HEADER_8-AREF1" H 13150 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_8" H 13150 12825 59  0000 L BNN
+F 2 "" H 13100 13000 50  0001 C CNN
+F 3 "" H 13100 13000 50  0001 C CNN
+	1    13100 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_14-21
+U 1 0 C8FE42BB
+P 14200 13000
+AR Path="/C8FE42BB" Ref="#HEADER_14-21"  Part="1" 
+AR Path="/5BB8C37A/C8FE42BB" Ref="#HEADER_14-21"  Part="1" 
+F 0 "#HEADER_14-21" H 14250 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_8" H 14250 12825 59  0000 L BNN
+F 2 "" H 14200 13000 50  0001 C CNN
+F 3 "" H 14200 13000 50  0001 C CNN
+	1    14200 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_C
+U 1 0 B52557FE
+P 15300 13000
+AR Path="/B52557FE" Ref="#HEADER_C"  Part="1" 
+AR Path="/5BB8C37A/B52557FE" Ref="#HEADER_C1"  Part="1" 
+F 0 "#HEADER_C1" H 15350 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_19" H 15350 12825 59  0000 L BNN
+F 2 "" H 15300 13000 50  0001 C CNN
+F 3 "" H 15300 13000 50  0001 C CNN
+	1    15300 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_NC-IOREF
+U 1 0 05E65B19
+P 17500 13000
+AR Path="/05E65B19" Ref="#HEADER_NC-IOREF"  Part="1" 
+AR Path="/5BB8C37A/05E65B19" Ref="#HEADER_NC-IOREF1"  Part="1" 
+F 0 "#HEADER_NC-IOREF1" H 17550 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_7" H 17550 12825 59  0000 L BNN
+F 2 "" H 17500 13000 50  0001 C CNN
+F 3 "" H 17500 13000 50  0001 C CNN
+	1    17500 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_ANALOG
+U 1 0 A188D4B7
+P 18600 13000
+AR Path="/A188D4B7" Ref="#HEADER_ANALOG"  Part="1" 
+AR Path="/5BB8C37A/A188D4B7" Ref="#HEADER_ANALOG1"  Part="1" 
+F 0 "#HEADER_ANALOG1" H 18650 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_6" H 18650 12825 59  0000 L BNN
+F 2 "" H 18600 13000 50  0001 C CNN
+F 3 "" H 18600 13000 50  0001 C CNN
+	1    18600 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:BOM-PART #HEADER_D
+U 1 0 EB51B5FB
+P 16400 13000
+AR Path="/EB51B5FB" Ref="#HEADER_D"  Part="1" 
+AR Path="/5BB8C37A/EB51B5FB" Ref="#HEADER_D1"  Part="1" 
+F 0 "#HEADER_D1" H 16450 12963 59  0000 L BNN
+F 1 "HEADER_FEMALE_19" H 16450 12825 59  0000 L BNN
+F 2 "" H 16400 13000 50  0001 C CNN
+F 3 "" H 16400 13000 50  0001 C CNN
+	1    16400 13000
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	5900 4600 5900 6400
+Wire Notes Line
+	5900 6400 10700 6400
+Wire Notes Line
+	10700 6400 10700 4600
+Wire Notes Line
+	10700 4600 5900 4600
+Wire Notes Line
+	5600 8400 5600 10200
+Wire Notes Line
+	5600 10200 7700 10200
+Wire Notes Line
+	7700 10200 7700 8400
+Wire Notes Line
+	7700 8400 5600 8400
+Text Notes 11800 14300 0    59   ~ 0
+JTAG Configuration
+Text Notes 11800 14400 0    59   ~ 0
+HSWAP to 3.3V to float all pins during configuration
+Text Notes 11800 14500 0    59   ~ 0
+M0 is connected to 3.3V
+Text Notes 11800 14600 0    59   ~ 0
+M1 is connected to GND
+Text Notes 11800 14700 0    59   ~ 0
+PROG_B asserting PROG_B causes a JTAG reconfiguration
+Text Notes 16600 14300 0    59   ~ 0
+Power Requirements
+Text Notes 16600 14400 0    59   ~ 0
+VCCINT requires 1.2V
+Text Notes 16600 14500 0    59   ~ 0
+VCCAUX requires 3.3V
+Text Notes 6000 4800 0    59   ~ 0
+Decoupling Caps
+Text Notes 6400 8600 0    59   ~ 0
+JTAG
+Text Notes 24400 13700 0    73   ~ 0
+Copyright 2014 Gadget Factory, LLC
+Text Notes 11800 13600 0    73   ~ 0
+This work is licensed under the Creative Commons Attribution-ShareAlike License.
+Text Notes 11800 13700 0    42   ~ 0
+To view a copy of this license, visit http://creativecommons.org/ ; or, (b) send a letter to Creative Commons, 171 2nd Street, Suite 300, San Francisco, California, 94105, USA.
+Text Notes 24500 13900 0    59   ~ 0
+See more details at www.GadgetFactory.net
+Text Notes 1300 14600 0    34   ~ 0
+This work is licensed under the Creative Commons Attribution Share-Alike License.
+Text Notes 1300 14700 0    34   ~ 0
+To view a copy of this license, visit http://creativecommons.org/ ; or, (b) send a letter to Creative Commons, 171 2nd Street, Suite 300, San Francisco, California, 94105, USA.
+Text Notes 7700 7300 0    85   ~ 0
+Power Connections
+Text Notes 7600 14500 0    85   ~ 0
+Peripheral Section
+Text Notes 26300 14200 0    85   ~ 0
+FPGA Section
+Text Notes 26600 8000 0    59   ~ 0
+IS62WV51216
+Text Notes 26600 7900 0    59   ~ 0
+IS61WV25616
+Text Notes 26600 7800 0    59   ~ 0
+CY7C1041D
+Text Notes 24800 9900 0    59   ~ 0
+RESET
+Wire Bus Line
+	10200 5500 10400 5500
+Wire Bus Line
+	7900 5500 8100 5500
+Wire Wire Line
+	3000 12200 3300 12200
+Wire Wire Line
+	3000 12000 3300 12000
+Wire Wire Line
+	23000 9700 24200 9700
+Wire Wire Line
+	3000 12100 3300 12100
+Wire Bus Line
+	8400 5500 8700 5500
+Wire Bus Line
+	9000 5500 9300 5500
+Wire Bus Line
+	9600 5500 9900 5500
+Wire Bus Line
+	7100 5500 7700 5500
+Wire Bus Line
+	6300 5500 6900 5500
+Wire Bus Line
+	16500 8500 16500 10100
+Wire Bus Line
+	23900 9000 23900 11300
+Wire Bus Line
+	13100 6200 13100 11200
+Wire Bus Line
+	6300 6000 10400 6000
+Wire Bus Line
+	16600 6200 16600 8400
+Wire Bus Line
+	23700 6400 23700 8900
+Wire Bus Line
+	27950 8300 27950 11200
+Wire Bus Line
+	18200 11300 23900 11300
+Wire Bus Line
+	17600 5200 22500 5200
+Wire Bus Line
+	16200 6200 16200 11200
+Wire Bus Line
+	26050 8600 26050 11200
+$EndSCHEMATC

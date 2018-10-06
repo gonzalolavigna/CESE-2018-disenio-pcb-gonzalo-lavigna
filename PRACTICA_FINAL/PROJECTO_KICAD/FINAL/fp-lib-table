@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ZZ_Arduino)(type KiCad)(uri D:/CESE/CESE-2018-disenio-pcb-gonzalo-lavigna/PRACTICA_FINAL/LIBRARIES/ARDUINO-LIBRARY/Arduino.pretty)(options "")(descr ""))
+  (lib (name ZZ_ARDUINO-SHIELD)(type Legacy)(uri D:/CESE/CESE-2018-disenio-pcb-gonzalo-lavigna/PRACTICA_FINAL/LIBRARIES/ARDUINO-SHIELD/arduino_shields.mod)(options "")(descr ""))
+)

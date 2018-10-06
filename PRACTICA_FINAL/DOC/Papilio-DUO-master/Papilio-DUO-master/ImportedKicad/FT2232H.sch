@@ -1,0 +1,1121 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 11693 8573
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5200 2800 2400 2800
+Wire Wire Line
+	2400 2800 2400 2100
+Wire Wire Line
+	1700 2100 2400 2100
+Text Label 1900 2100 0    70   ~ 0
+FTUSB_N
+Wire Wire Line
+	1700 2200 2300 2200
+Wire Wire Line
+	5200 2900 2300 2900
+Wire Wire Line
+	2300 2900 2300 2200
+Text Label 1900 2200 0    70   ~ 0
+FTUSB_P
+Wire Wire Line
+	3700 4900 3500 4900
+Wire Wire Line
+	3500 4900 3200 4900
+Connection ~ 3500 4900
+Text GLabel 3700 4900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5100 1700 4700 1700
+Wire Wire Line
+	4700 1700 4500 1700
+Wire Wire Line
+	3900 1600 3900 1700
+Wire Wire Line
+	3900 1700 4300 1700
+Wire Wire Line
+	4300 1700 4500 1700
+Wire Wire Line
+	4300 1600 4300 1700
+Connection ~ 4700 1700
+Connection ~ 4300 1700
+Connection ~ 4500 1700
+Text GLabel 5100 1700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6400 1200 6800 1200
+Wire Wire Line
+	6800 1200 7200 1200
+Connection ~ 6800 1200
+Text GLabel 6400 1200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7700 1200 8100 1200
+Wire Wire Line
+	8500 1200 8300 1200
+Wire Wire Line
+	8300 1200 8100 1200
+Wire Wire Line
+	8500 1200 8900 1200
+Connection ~ 8100 1200
+Connection ~ 8500 1200
+Connection ~ 8300 1200
+Text GLabel 7700 1200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5200 5700 5200 6100
+Wire Wire Line
+	5200 6100 6100 6100
+Wire Wire Line
+	6100 6100 6300 6100
+Wire Wire Line
+	6300 6100 6400 6100
+Wire Wire Line
+	6400 6100 6500 6100
+Wire Wire Line
+	6500 6100 6600 6100
+Wire Wire Line
+	6600 6100 6700 6100
+Wire Wire Line
+	6700 6100 6800 6100
+Wire Wire Line
+	6800 6100 6900 6100
+Wire Wire Line
+	6900 6100 7000 6100
+Wire Wire Line
+	4900 5900 4900 6100
+Wire Wire Line
+	4900 6100 5200 6100
+Wire Wire Line
+	4300 5900 4300 6100
+Wire Wire Line
+	4300 6100 4900 6100
+Connection ~ 6100 6100
+Connection ~ 6300 6100
+Connection ~ 6400 6100
+Connection ~ 6500 6100
+Connection ~ 6600 6100
+Connection ~ 6700 6100
+Connection ~ 6800 6100
+Connection ~ 6900 6100
+Connection ~ 4900 6100
+Connection ~ 5200 6100
+Connection ~ 4300 6100
+Text GLabel 5200 5700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1700 1800 1700 1900
+Text GLabel 1700 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3500 2000 3700 2000
+Wire Wire Line
+	5200 2000 3700 2000
+Connection ~ 3700 2000
+Text GLabel 3500 2000 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	4200 3600 4300 3600
+Text GLabel 4200 3600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	1700 3600 2300 3600
+Wire Wire Line
+	2300 3600 2900 3600
+Connection ~ 2300 3600
+Text GLabel 1700 3600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	3700 4600 3500 4600
+Wire Wire Line
+	3500 4600 3200 4600
+Connection ~ 3500 4600
+Text GLabel 3700 4600 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	6700 1700 6800 1700
+Wire Wire Line
+	6800 1700 6850 1700
+Wire Wire Line
+	6850 1700 6900 1700
+Wire Wire Line
+	6900 1700 7000 1700
+Connection ~ 6850 1700
+Text GLabel 6700 1700 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	8900 900  8500 900 
+Wire Wire Line
+	8100 900  8300 900 
+Wire Wire Line
+	8300 900  8500 900 
+Wire Wire Line
+	8100 900  7700 900 
+Connection ~ 8100 900 
+Connection ~ 8500 900 
+Connection ~ 8300 900 
+Text GLabel 8900 900  0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	10000 4000 10200 4000
+Wire Wire Line
+	10200 4000 10400 4000
+Connection ~ 10200 4000
+Text GLabel 10000 4000 0    10   BiDi ~ 0
+3V3
+Wire Wire Line
+	4700 2300 5200 2300
+Connection ~ 4700 2300
+Text Label 4700 2300 0    10   ~ 0
+1.8V
+Wire Wire Line
+	6300 1700 6400 1700
+Wire Wire Line
+	6400 1700 6500 1700
+Connection ~ 6400 1700
+Text Label 6300 1700 0    10   ~ 0
+1.8V
+Wire Wire Line
+	7200 900  6800 900 
+Wire Wire Line
+	6400 900  6800 900 
+Connection ~ 6800 900 
+Text Label 7200 900  0    10   ~ 0
+1.8V
+Wire Wire Line
+	5200 3300 3600 3300
+Wire Wire Line
+	5200 3600 4700 3600
+Text Label 4800 3600 0    70   ~ 0
+~RESET
+Wire Wire Line
+	5200 4200 2300 4200
+Wire Wire Line
+	2300 4200 2300 4600
+Wire Wire Line
+	2300 4600 2400 4600
+Wire Wire Line
+	2300 4000 2300 4200
+Connection ~ 2300 4200
+Text Label 4700 4200 0    70   ~ 0
+EECS
+Wire Wire Line
+	5200 4300 2900 4300
+Wire Wire Line
+	2900 4300 2200 4300
+Wire Wire Line
+	2200 4300 2200 4700
+Wire Wire Line
+	2200 4700 2400 4700
+Wire Wire Line
+	2900 4000 2900 4300
+Connection ~ 2900 4300
+Text Label 4700 4300 0    70   ~ 0
+EECLK
+Wire Wire Line
+	5200 4400 2100 4400
+Wire Wire Line
+	2400 4800 2100 4800
+Wire Wire Line
+	2100 4800 2100 4400
+Connection ~ 2100 4400
+Text Label 4700 4400 0    70   ~ 0
+EEDATA
+Wire Wire Line
+	5200 4900 4300 4900
+Wire Wire Line
+	4300 4900 4300 5400
+Wire Wire Line
+	4300 5600 4300 5400
+Wire Wire Line
+	4300 5400 4550 5400
+Connection ~ 4300 5400
+Wire Wire Line
+	5200 5400 4900 5400
+Wire Wire Line
+	4900 5600 4900 5400
+Wire Wire Line
+	4900 5400 4850 5400
+Connection ~ 4900 5400
+Wire Wire Line
+	8300 5700 8700 5700
+Text Label 8400 5700 0    70   ~ 0
+~SUSPEND
+Wire Wire Line
+	8300 5600 8700 5600
+Text Label 8400 5600 0    70   ~ 0
+~PWEREN
+Wire Wire Line
+	8300 5400 8700 5400
+Text Label 8400 5400 0    70   ~ 0
+BC7
+Wire Wire Line
+	8300 5300 8700 5300
+Text Label 8400 5300 0    70   ~ 0
+BC6
+Wire Wire Line
+	8300 5200 8700 5200
+Text Label 8400 5200 0    70   ~ 0
+BC5
+Wire Wire Line
+	10400 4700 10400 5100
+Wire Wire Line
+	10400 5100 8300 5100
+Text Label 8400 5100 0    70   ~ 0
+BC4
+Wire Wire Line
+	10000 4700 10000 5000
+Wire Wire Line
+	10000 5000 8300 5000
+Text Label 8400 5000 0    70   ~ 0
+BC3
+Wire Wire Line
+	8300 4900 8700 4900
+Text Label 8400 4900 0    70   ~ 0
+BC2
+Wire Wire Line
+	8300 4800 8700 4800
+Text Label 8400 4800 0    70   ~ 0
+BC1
+Wire Wire Line
+	8300 4700 8700 4700
+Text Label 8400 4700 0    70   ~ 0
+BC0
+Wire Wire Line
+	8300 4400 8700 4400
+Text Label 8400 4400 0    70   ~ 0
+BD6
+Wire Wire Line
+	8300 4500 8700 4500
+Text Label 8400 4500 0    70   ~ 0
+BD7
+Wire Wire Line
+	8300 4300 8700 4300
+Text Label 8400 4300 0    70   ~ 0
+BD5
+Wire Wire Line
+	8300 4200 8700 4200
+Text GLabel 8400 4200 2    70   BiDi ~ 0
+BD4-DTR
+Wire Wire Line
+	8300 4100 8700 4100
+Text GLabel 8400 4100 2    70   BiDi ~ 0
+BD3_MPSSE_TMS
+Wire Wire Line
+	8300 4000 8700 4000
+Text GLabel 8400 4000 2    70   BiDi ~ 0
+BD2_MPSSE_TDO
+Wire Wire Line
+	8300 3900 8700 3900
+Text GLabel 8400 3900 2    70   BiDi ~ 0
+BD1_RXD/MPSSE_TDI
+Wire Wire Line
+	8300 3800 8700 3800
+Text GLabel 8400 3800 2    70   BiDi ~ 0
+BD0_TXD/MPSSE_TCK
+Wire Wire Line
+	8300 3600 8700 3600
+Text Label 8400 3600 0    70   ~ 0
+AC7
+Wire Wire Line
+	8300 3500 8700 3500
+Text Label 8400 3500 0    70   ~ 0
+AC6
+Wire Wire Line
+	8300 3400 8700 3400
+Text Label 8400 3400 0    70   ~ 0
+AC5
+Wire Wire Line
+	8300 3300 8710 3300
+Text Label 8400 3300 0    70   ~ 0
+AC4
+Wire Wire Line
+	8300 3200 8710 3200
+Text Label 8400 3200 0    70   ~ 0
+AC3
+Wire Wire Line
+	8300 3100 8700 3100
+Text Label 8400 3100 0    70   ~ 0
+AC2
+Wire Wire Line
+	8300 3000 8700 3000
+Text Label 8400 3000 0    70   ~ 0
+AC1
+Wire Wire Line
+	8300 2900 8700 2900
+Text Label 8400 2900 0    70   ~ 0
+AC0
+Wire Wire Line
+	8300 2700 8700 2700
+Text Label 8400 2700 0    70   ~ 0
+AD7
+Wire Wire Line
+	8300 2600 8700 2600
+Text Label 8400 2600 0    70   ~ 0
+AD6
+Wire Wire Line
+	8300 2500 8700 2500
+Text Label 8400 2500 0    70   ~ 0
+AD5
+Wire Wire Line
+	8300 2400 8700 2400
+Text GLabel 8400 2400 2    70   BiDi ~ 0
+AD4-DTR
+Wire Wire Line
+	8300 2300 8700 2300
+Text GLabel 8400 2300 2    70   BiDi ~ 0
+AD3-JTAG_TMS
+Wire Wire Line
+	8300 2200 8700 2200
+Text GLabel 8400 2200 2    70   BiDi ~ 0
+AD2-JTAG_TDO
+Wire Wire Line
+	8300 2100 8700 2100
+Text GLabel 8400 2100 2    70   BiDi ~ 0
+AD1-JTAG_TDI
+Wire Wire Line
+	8300 2000 8700 2000
+Text GLabel 8400 2000 2    70   BiDi ~ 0
+AD0-JTAG_TCK
+Wire Wire Line
+	1700 4000 1700 4400
+Wire Wire Line
+	1700 4400 1700 4900
+Wire Wire Line
+	2400 4900 1700 4900
+Connection ~ 1700 4400
+Wire Wire Line
+	3600 1200 4300 1200
+Wire Wire Line
+	4300 1200 5100 1200
+Wire Wire Line
+	5100 1200 6000 1200
+Wire Wire Line
+	6000 1200 6000 1700
+Wire Wire Line
+	4300 1300 4300 1200
+Wire Wire Line
+	5100 1400 5100 1200
+Connection ~ 4300 1200
+Connection ~ 5100 1200
+Wire Wire Line
+	3600 900  3900 900 
+Wire Wire Line
+	3900 900  4700 900 
+Wire Wire Line
+	4700 900  6100 900 
+Wire Wire Line
+	6100 900  6100 1700
+Wire Wire Line
+	3900 1300 3900 900 
+Wire Wire Line
+	4700 1400 4700 900 
+Connection ~ 3900 900 
+Connection ~ 4700 900 
+Wire Wire Line
+	1700 2000 2300 2000
+Text GLabel 1900 2000 2    70   BiDi ~ 0
+5V_FT2232
+$Comp
+L Papilio_DUO-eagle-import:FT2232H IC1
+U 1 0 CBCC6BA4
+P 6600 4000
+AR Path="/CBCC6BA4" Ref="IC1"  Part="1" 
+AR Path="/5BB8CAA2/CBCC6BA4" Ref="IC1"  Part="1" 
+F 0 "IC1" H 6100 4000 85  0000 L BNN
+F 1 "FT2232H" H 6100 3800 85  0000 L BNN
+F 2 "Papilio_DUO:LQFP64" H 6600 4000 50  0001 C CNN
+F 3 "" H 6600 4000 50  0001 C CNN
+	1    6600 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:LETTER_L #FRAME3
+U 1 0 5B1AAE1E
+P 1000 7700
+AR Path="/5B1AAE1E" Ref="#FRAME3"  Part="1" 
+AR Path="/5BB8CAA2/5B1AAE1E" Ref="#FRAME3"  Part="1" 
+F 0 "#FRAME3" H 1000 7700 50  0001 C CNN
+F 1 "LETTER_L" H 1000 7700 50  0001 C CNN
+F 2 "" H 1000 7700 50  0001 C CNN
+F 3 "" H 1000 7700 50  0001 C CNN
+	1    1000 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:LETTER_L #FRAME3
+U 2 0 5B1AAE12
+P 6800 7700
+AR Path="/5B1AAE12" Ref="#FRAME3"  Part="2" 
+AR Path="/5BB8CAA2/5B1AAE12" Ref="#FRAME3"  Part="2" 
+F 0 "#FRAME3" H 6800 7700 50  0001 C CNN
+F 1 "LETTER_L" H 6800 7700 50  0001 C CNN
+F 2 "" H 6800 7700 50  0001 C CNN
+F 3 "" H 6800 7700 50  0001 C CNN
+	2    6800 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FERRITE_BEAD603 L4
+U 1 0 305C58F0
+P 3300 900
+AR Path="/305C58F0" Ref="L4"  Part="1" 
+AR Path="/5BB8CAA2/305C58F0" Ref="L4"  Part="1" 
+F 0 "L4" V 3190 860 59  0000 L BNN
+F 1 "FERRITE_BEAD603" H 3400 650 59  0000 L BNN
+F 2 "Papilio_DUO:FB603" H 3300 900 50  0001 C CNN
+F 3 "" H 3300 900 50  0001 C CNN
+	1    3300 900 
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+1
+U 1 0 6A081B6E
+P 3700 2000
+AR Path="/6A081B6E" Ref="#P+1"  Part="1" 
+AR Path="/5BB8CAA2/6A081B6E" Ref="#P+01"  Part="1" 
+F 0 "#P+01" H 3700 2000 50  0001 C CNN
+F 1 "3.3V" H 3660 2140 59  0000 L BNN
+F 2 "" H 3700 2000 50  0001 C CNN
+F 3 "" H 3700 2000 50  0001 C CNN
+	1    3700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:1.8V #U$11
+U 1 0 ABBF7E6D
+P 4700 2300
+AR Path="/ABBF7E6D" Ref="#U$11"  Part="1" 
+AR Path="/5BB8CAA2/ABBF7E6D" Ref="#U$011"  Part="1" 
+F 0 "#U$011" H 4700 2300 50  0001 C CNN
+F 1 "1.8V" H 4660 2440 59  0000 L BNN
+F 2 "" H 4700 2300 50  0001 C CNN
+F 3 "" H 4700 2300 50  0001 C CNN
+	1    4700 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND17
+U 1 0 CBB20165
+P 4700 2700
+AR Path="/CBB20165" Ref="#GND17"  Part="1" 
+AR Path="/5BB8CAA2/CBB20165" Ref="#GND017"  Part="1" 
+F 0 "#GND017" H 4700 2700 50  0001 C CNN
+F 1 "GND" H 4610 2620 46  0000 L BNN
+F 2 "" H 4700 2700 50  0001 C CNN
+F 3 "" H 4700 2700 50  0001 C CNN
+	1    4700 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND18
+U 1 0 195191A6
+P 1700 1700
+AR Path="/195191A6" Ref="#GND18"  Part="1" 
+AR Path="/5BB8CAA2/195191A6" Ref="#GND018"  Part="1" 
+F 0 "#GND018" H 1700 1700 50  0001 C CNN
+F 1 "GND" H 1610 1620 46  0000 L BNN
+F 2 "" H 1700 1700 50  0001 C CNN
+F 3 "" H 1700 1700 50  0001 C CNN
+	1    1700 1700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R27
+U 1 0 05860A1F
+P 3600 3500
+AR Path="/05860A1F" Ref="R27"  Part="1" 
+AR Path="/5BB8CAA2/05860A1F" Ref="R27"  Part="1" 
+F 0 "R27" H 3500 3560 50  0001 L BNN
+F 1 "12k 1%" H 3500 3390 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 3600 3500 50  0001 C CNN
+F 3 "" H 3600 3500 50  0001 C CNN
+	1    3600 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND19
+U 1 0 F278BC0E
+P 3600 3800
+AR Path="/F278BC0E" Ref="#GND19"  Part="1" 
+AR Path="/5BB8CAA2/F278BC0E" Ref="#GND019"  Part="1" 
+F 0 "#GND019" H 3600 3800 50  0001 C CNN
+F 1 "GND" H 3510 3720 46  0000 L BNN
+F 2 "" H 3600 3800 50  0001 C CNN
+F 3 "" H 3600 3800 50  0001 C CNN
+	1    3600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R28
+U 1 0 A83A3BF8
+P 4500 3600
+AR Path="/A83A3BF8" Ref="R28"  Part="1" 
+AR Path="/5BB8CAA2/A83A3BF8" Ref="R28"  Part="1" 
+F 0 "R28" H 4400 3660 50  0001 L BNN
+F 1 "10k" H 4400 3490 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 4500 3600 50  0001 C CNN
+F 3 "" H 4500 3600 50  0001 C CNN
+	1    4500 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+3
+U 1 0 48C2C5DB
+P 4200 3600
+AR Path="/48C2C5DB" Ref="#P+3"  Part="1" 
+AR Path="/5BB8CAA2/48C2C5DB" Ref="#P+03"  Part="1" 
+F 0 "#P+03" H 4200 3600 50  0001 C CNN
+F 1 "3.3V" H 4160 3740 59  0000 L BNN
+F 2 "" H 4200 3600 50  0001 C CNN
+F 3 "" H 4200 3600 50  0001 C CNN
+	1    4200 3600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAP_POLSMC_A C19
+U 1 0 427E0977
+P 4700 2400
+AR Path="/427E0977" Ref="C19"  Part="1" 
+AR Path="/5BB8CAA2/427E0977" Ref="C19"  Part="1" 
+F 0 "C19" H 4745 2419 59  0000 L BNN
+F 1 "3.3uF" H 4745 2219 59  0000 L BNN
+F 2 "Papilio_DUO:SMC_A" H 4700 2400 50  0001 C CNN
+F 3 "" H 4700 2400 50  0001 C CNN
+	1    4700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND20
+U 1 0 E53A484A
+P 3500 5000
+AR Path="/E53A484A" Ref="#GND20"  Part="1" 
+AR Path="/5BB8CAA2/E53A484A" Ref="#GND020"  Part="1" 
+F 0 "#GND020" H 3500 5000 50  0001 C CNN
+F 1 "GND" H 3410 4920 46  0000 L BNN
+F 2 "" H 3500 5000 50  0001 C CNN
+F 3 "" H 3500 5000 50  0001 C CNN
+	1    3500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R25
+U 1 0 CA0B55A2
+P 1900 4400
+AR Path="/CA0B55A2" Ref="R25"  Part="1" 
+AR Path="/5BB8CAA2/CA0B55A2" Ref="R25"  Part="1" 
+F 0 "R25" H 1800 4460 50  0001 L BNN
+F 1 "2.2k" H 1800 4290 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 1900 4400 50  0001 C CNN
+F 3 "" H 1900 4400 50  0001 C CNN
+	1    1900 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R24
+U 1 0 710310B2
+P 2900 3800
+AR Path="/710310B2" Ref="R24"  Part="1" 
+AR Path="/5BB8CAA2/710310B2" Ref="R24"  Part="1" 
+F 0 "R24" H 2800 3860 50  0001 L BNN
+F 1 "10k" H 2800 3690 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 2900 3800 50  0001 C CNN
+F 3 "" H 2900 3800 50  0001 C CNN
+	1    2900 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R26
+U 1 0 58B67C68
+P 1700 3800
+AR Path="/58B67C68" Ref="R26"  Part="1" 
+AR Path="/5BB8CAA2/58B67C68" Ref="R26"  Part="1" 
+F 0 "R26" H 1600 3860 50  0001 L BNN
+F 1 "10k" H 1600 3690 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 1700 3800 50  0001 C CNN
+F 3 "" H 1700 3800 50  0001 C CNN
+	1    1700 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R23
+U 1 0 593AF3FC
+P 2300 3800
+AR Path="/593AF3FC" Ref="R23"  Part="1" 
+AR Path="/5BB8CAA2/593AF3FC" Ref="R23"  Part="1" 
+F 0 "R23" H 2200 3860 50  0001 L BNN
+F 1 "10k" H 2200 3690 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 2300 3800 50  0001 C CNN
+F 3 "" H 2300 3800 50  0001 C CNN
+	1    2300 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+2
+U 1 0 637B3A6A
+P 2300 3600
+AR Path="/637B3A6A" Ref="#P+2"  Part="1" 
+AR Path="/5BB8CAA2/637B3A6A" Ref="#P+02"  Part="1" 
+F 0 "#P+02" H 2300 3600 50  0001 C CNN
+F 1 "3.3V" H 2260 3740 59  0000 L BNN
+F 2 "" H 2300 3600 50  0001 C CNN
+F 3 "" H 2300 3600 50  0001 C CNN
+	1    2300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+4
+U 1 0 459FCD94
+P 3500 4600
+AR Path="/459FCD94" Ref="#P+4"  Part="1" 
+AR Path="/5BB8CAA2/459FCD94" Ref="#P+04"  Part="1" 
+F 0 "#P+04" H 3500 4600 50  0001 C CNN
+F 1 "3.3V" H 3410 4710 59  0000 L BNN
+F 2 "" H 3500 4600 50  0001 C CNN
+F 3 "" H 3500 4600 50  0001 C CNN
+	1    3500 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C17
+U 1 0 46EAFDFE
+P 3700 4800
+AR Path="/46EAFDFE" Ref="C17"  Part="1" 
+AR Path="/5BB8CAA2/46EAFDFE" Ref="C17"  Part="1" 
+F 0 "C17" H 3760 4915 59  0000 L BNN
+F 1 "0.1uF" H 3760 4715 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 3700 4800 50  0001 C CNN
+F 3 "" H 3700 4800 50  0001 C CNN
+	1    3700 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C9
+U 1 0 DFE0A9F2
+P 4300 5800
+AR Path="/DFE0A9F2" Ref="C9"  Part="1" 
+AR Path="/5BB8CAA2/DFE0A9F2" Ref="C9"  Part="1" 
+F 0 "C9" H 4360 5915 59  0000 L BNN
+F 1 "27pF" H 4360 5715 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 4300 5800 50  0001 C CNN
+F 3 "" H 4300 5800 50  0001 C CNN
+	1    4300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C8
+U 1 0 8DEECF4D
+P 4900 5800
+AR Path="/8DEECF4D" Ref="C8"  Part="1" 
+AR Path="/5BB8CAA2/8DEECF4D" Ref="C8"  Part="1" 
+F 0 "C8" H 4960 5915 59  0000 L BNN
+F 1 "27pF" H 4960 5715 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 4900 5800 50  0001 C CNN
+F 3 "" H 4900 5800 50  0001 C CNN
+	1    4900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:1.8V #U$12
+U 1 0 FCFA34DC
+P 6400 1700
+AR Path="/FCFA34DC" Ref="#U$12"  Part="1" 
+AR Path="/5BB8CAA2/FCFA34DC" Ref="#U$012"  Part="1" 
+F 0 "#U$012" H 6400 1700 50  0001 C CNN
+F 1 "1.8V" H 6360 1840 59  0000 L BNN
+F 2 "" H 6400 1700 50  0001 C CNN
+F 3 "" H 6400 1700 50  0001 C CNN
+	1    6400 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+5
+U 1 0 57F4DC09
+P 6850 1700
+AR Path="/57F4DC09" Ref="#P+5"  Part="1" 
+AR Path="/5BB8CAA2/57F4DC09" Ref="#P+05"  Part="1" 
+F 0 "#P+05" H 6850 1700 50  0001 C CNN
+F 1 "3.3V" H 6810 1840 59  0000 L BNN
+F 2 "" H 6850 1700 50  0001 C CNN
+F 3 "" H 6850 1700 50  0001 C CNN
+	1    6850 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:FERRITE_BEAD603 L3
+U 1 0 C283CED1
+P 3300 1200
+AR Path="/C283CED1" Ref="L3"  Part="1" 
+AR Path="/5BB8CAA2/C283CED1" Ref="L3"  Part="1" 
+F 0 "L3" V 3190 1160 59  0000 L BNN
+F 1 "FERRITE_BEAD603" H 3400 950 59  0000 L BNN
+F 2 "Papilio_DUO:FB603" H 3300 1200 50  0001 C CNN
+F 3 "" H 3300 1200 50  0001 C CNN
+	1    3300 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAP_POLSMC_A C28
+U 1 0 FF677285
+P 3900 1400
+AR Path="/FF677285" Ref="C28"  Part="1" 
+AR Path="/5BB8CAA2/FF677285" Ref="C28"  Part="1" 
+F 0 "C28" H 3945 1419 59  0000 L BNN
+F 1 "4.7uF" H 3945 1219 59  0000 L BNN
+F 2 "Papilio_DUO:SMC_A" H 3900 1400 50  0001 C CNN
+F 3 "" H 3900 1400 50  0001 C CNN
+	1    3900 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAP_POLSMC_A C14
+U 1 0 E4A116F1
+P 4300 1400
+AR Path="/E4A116F1" Ref="C14"  Part="1" 
+AR Path="/5BB8CAA2/E4A116F1" Ref="C14"  Part="1" 
+F 0 "C14" H 4345 1419 59  0000 L BNN
+F 1 "4.7uF" H 4345 1219 59  0000 L BNN
+F 2 "Papilio_DUO:SMC_A" H 4300 1400 50  0001 C CNN
+F 3 "" H 4300 1400 50  0001 C CNN
+	1    4300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C34
+U 1 0 FB4622E9
+P 4700 1600
+AR Path="/FB4622E9" Ref="C34"  Part="1" 
+AR Path="/5BB8CAA2/FB4622E9" Ref="C34"  Part="1" 
+F 0 "C34" H 4760 1715 59  0000 L BNN
+F 1 "0.1uF" H 4760 1515 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 4700 1600 50  0001 C CNN
+F 3 "" H 4700 1600 50  0001 C CNN
+	1    4700 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C15
+U 1 0 C65B0EAD
+P 5100 1600
+AR Path="/C65B0EAD" Ref="C15"  Part="1" 
+AR Path="/5BB8CAA2/C65B0EAD" Ref="C15"  Part="1" 
+F 0 "C15" H 5160 1715 59  0000 L BNN
+F 1 "0.1uF" H 5160 1515 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 5100 1600 50  0001 C CNN
+F 3 "" H 5100 1600 50  0001 C CNN
+	1    5100 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND21
+U 1 0 FF2A2D77
+P 4500 1800
+AR Path="/FF2A2D77" Ref="#GND21"  Part="1" 
+AR Path="/5BB8CAA2/FF2A2D77" Ref="#GND021"  Part="1" 
+F 0 "#GND021" H 4500 1800 50  0001 C CNN
+F 1 "GND" H 4410 1720 46  0000 L BNN
+F 2 "" H 4500 1800 50  0001 C CNN
+F 3 "" H 4500 1800 50  0001 C CNN
+	1    4500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+6
+U 1 0 4B6CF0C8
+P 3000 1200
+AR Path="/4B6CF0C8" Ref="#P+6"  Part="1" 
+AR Path="/5BB8CAA2/4B6CF0C8" Ref="#P+06"  Part="1" 
+F 0 "#P+06" H 3000 1200 50  0001 C CNN
+F 1 "3.3V" H 2960 1340 59  0000 L BNN
+F 2 "" H 3000 1200 50  0001 C CNN
+F 3 "" H 3000 1200 50  0001 C CNN
+	1    3000 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+7
+U 1 0 FAFE20BD
+P 3000 900
+AR Path="/FAFE20BD" Ref="#P+7"  Part="1" 
+AR Path="/5BB8CAA2/FAFE20BD" Ref="#P+07"  Part="1" 
+F 0 "#P+07" H 3000 900 50  0001 C CNN
+F 1 "3.3V" H 2960 1040 59  0000 L BNN
+F 2 "" H 3000 900 50  0001 C CNN
+F 3 "" H 3000 900 50  0001 C CNN
+	1    3000 900 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C27
+U 1 0 6CA4E1A0
+P 6400 1100
+AR Path="/6CA4E1A0" Ref="C27"  Part="1" 
+AR Path="/5BB8CAA2/6CA4E1A0" Ref="C27"  Part="1" 
+F 0 "C27" H 6460 1215 59  0000 L BNN
+F 1 "0.1uF" H 6460 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 6400 1100 50  0001 C CNN
+F 3 "" H 6400 1100 50  0001 C CNN
+	1    6400 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C31
+U 1 0 A25847E5
+P 6800 1100
+AR Path="/A25847E5" Ref="C31"  Part="1" 
+AR Path="/5BB8CAA2/A25847E5" Ref="C31"  Part="1" 
+F 0 "C31" H 6860 1215 59  0000 L BNN
+F 1 "0.1uF" H 6860 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 6800 1100 50  0001 C CNN
+F 3 "" H 6800 1100 50  0001 C CNN
+	1    6800 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C16
+U 1 0 5DE9A54D
+P 7200 1100
+AR Path="/5DE9A54D" Ref="C16"  Part="1" 
+AR Path="/5BB8CAA2/5DE9A54D" Ref="C16"  Part="1" 
+F 0 "C16" H 7260 1215 59  0000 L BNN
+F 1 "0.1uF" H 7260 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 7200 1100 50  0001 C CNN
+F 3 "" H 7200 1100 50  0001 C CNN
+	1    7200 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C29
+U 1 0 195B5124
+P 7700 1100
+AR Path="/195B5124" Ref="C29"  Part="1" 
+AR Path="/5BB8CAA2/195B5124" Ref="C29"  Part="1" 
+F 0 "C29" H 7760 1215 59  0000 L BNN
+F 1 "0.1uF" H 7760 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 7700 1100 50  0001 C CNN
+F 3 "" H 7700 1100 50  0001 C CNN
+	1    7700 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C30
+U 1 0 B580FF4E
+P 8100 1100
+AR Path="/B580FF4E" Ref="C30"  Part="1" 
+AR Path="/5BB8CAA2/B580FF4E" Ref="C30"  Part="1" 
+F 0 "C30" H 8160 1215 59  0000 L BNN
+F 1 "0.1uF" H 8160 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 8100 1100 50  0001 C CNN
+F 3 "" H 8100 1100 50  0001 C CNN
+	1    8100 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C20
+U 1 0 74A5ABB7
+P 8500 1100
+AR Path="/74A5ABB7" Ref="C20"  Part="1" 
+AR Path="/5BB8CAA2/74A5ABB7" Ref="C20"  Part="1" 
+F 0 "C20" H 8560 1215 59  0000 L BNN
+F 1 "0.1uF" H 8560 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 8500 1100 50  0001 C CNN
+F 3 "" H 8500 1100 50  0001 C CNN
+	1    8500 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CAPC603 C18
+U 1 0 9D5497DE
+P 8900 1100
+AR Path="/9D5497DE" Ref="C18"  Part="1" 
+AR Path="/5BB8CAA2/9D5497DE" Ref="C18"  Part="1" 
+F 0 "C18" H 8960 1215 59  0000 L BNN
+F 1 "0.1uF" H 8960 1015 59  0000 L BNN
+F 2 "Papilio_DUO:C603" H 8900 1100 50  0001 C CNN
+F 3 "" H 8900 1100 50  0001 C CNN
+	1    8900 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:1.8V #U$13
+U 1 0 33430DC8
+P 6800 900
+AR Path="/33430DC8" Ref="#U$13"  Part="1" 
+AR Path="/5BB8CAA2/33430DC8" Ref="#U$013"  Part="1" 
+F 0 "#U$013" H 6800 900 50  0001 C CNN
+F 1 "1.8V" H 6760 1040 59  0000 L BNN
+F 2 "" H 6800 900 50  0001 C CNN
+F 3 "" H 6800 900 50  0001 C CNN
+	1    6800 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+8
+U 1 0 E32DC4A8
+P 8300 900
+AR Path="/E32DC4A8" Ref="#P+8"  Part="1" 
+AR Path="/5BB8CAA2/E32DC4A8" Ref="#P+08"  Part="1" 
+F 0 "#P+08" H 8300 900 50  0001 C CNN
+F 1 "3.3V" H 8260 1040 59  0000 L BNN
+F 2 "" H 8300 900 50  0001 C CNN
+F 3 "" H 8300 900 50  0001 C CNN
+	1    8300 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND22
+U 1 0 A44C21B7
+P 6800 1300
+AR Path="/A44C21B7" Ref="#GND22"  Part="1" 
+AR Path="/5BB8CAA2/A44C21B7" Ref="#GND022"  Part="1" 
+F 0 "#GND022" H 6800 1300 50  0001 C CNN
+F 1 "GND" H 6710 1220 46  0000 L BNN
+F 2 "" H 6800 1300 50  0001 C CNN
+F 3 "" H 6800 1300 50  0001 C CNN
+	1    6800 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND23
+U 1 0 D027D65F
+P 8300 1300
+AR Path="/D027D65F" Ref="#GND23"  Part="1" 
+AR Path="/5BB8CAA2/D027D65F" Ref="#GND023"  Part="1" 
+F 0 "#GND023" H 8300 1300 50  0001 C CNN
+F 1 "GND" H 8210 1220 46  0000 L BNN
+F 2 "" H 8300 1300 50  0001 C CNN
+F 3 "" H 8300 1300 50  0001 C CNN
+	1    8300 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:GND #GND24
+U 1 0 157BD418
+P 4300 6200
+AR Path="/157BD418" Ref="#GND24"  Part="1" 
+AR Path="/5BB8CAA2/157BD418" Ref="#GND024"  Part="1" 
+F 0 "#GND024" H 4300 6200 50  0001 C CNN
+F 1 "GND" H 4210 6120 46  0000 L BNN
+F 2 "" H 4300 6200 50  0001 C CNN
+F 3 "" H 4300 6200 50  0001 C CNN
+	1    4300 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CRYSTAL_212M_ X1
+U 1 0 47D81375
+P 4700 5400
+AR Path="/47D81375" Ref="X1"  Part="1" 
+AR Path="/5BB8CAA2/47D81375" Ref="X1"  Part="1" 
+F 0 "X1" H 4600 5450 59  0000 L BNN
+F 1 "12MHz" H 4600 5300 59  0000 L BNN
+F 2 "Papilio_DUO:4X6" H 4700 5400 50  0001 C CNN
+F 3 "" H 4700 5400 50  0001 C CNN
+	1    4700 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R30
+U 1 0 DB00C250
+P 10000 4500
+AR Path="/DB00C250" Ref="R30"  Part="1" 
+AR Path="/5BB8CAA2/DB00C250" Ref="R30"  Part="1" 
+F 0 "R30" H 9900 4560 50  0001 L BNN
+F 1 "1K" H 9900 4390 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 10000 4500 50  0001 C CNN
+F 3 "" H 10000 4500 50  0001 C CNN
+	1    10000 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:LEDCHIP-LED0805 RX
+U 1 0 249BA167
+P 10000 4100
+AR Path="/249BA167" Ref="RX"  Part="1" 
+AR Path="/5BB8CAA2/249BA167" Ref="RX1"  Part="1" 
+F 0 "RX1" V 10140 3920 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 10225 3920 59  0000 L BNN
+F 2 "Papilio_DUO:CHIP-LED0805" H 10000 4100 50  0001 C CNN
+F 3 "" H 10000 4100 50  0001 C CNN
+	1    10000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:R0603 R29
+U 1 0 B62DC374
+P 10400 4500
+AR Path="/B62DC374" Ref="R29"  Part="1" 
+AR Path="/5BB8CAA2/B62DC374" Ref="R29"  Part="1" 
+F 0 "R29" H 10300 4560 50  0001 L BNN
+F 1 "1K" H 10300 4390 50  0001 L BNN
+F 2 "Papilio_DUO:0603" H 10400 4500 50  0001 C CNN
+F 3 "" H 10400 4500 50  0001 C CNN
+	1    10400 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:LEDCHIP-LED0805 TX
+U 1 0 73929B28
+P 10400 4100
+AR Path="/73929B28" Ref="TX"  Part="1" 
+AR Path="/5BB8CAA2/73929B28" Ref="TX1"  Part="1" 
+F 0 "TX1" V 10540 3920 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 10625 3920 59  0000 L BNN
+F 2 "Papilio_DUO:CHIP-LED0805" H 10400 4100 50  0001 C CNN
+F 3 "" H 10400 4100 50  0001 C CNN
+	1    10400 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:3.3V #P+11
+U 1 0 4D46F757
+P 10200 4000
+AR Path="/4D46F757" Ref="#P+11"  Part="1" 
+AR Path="/5BB8CAA2/4D46F757" Ref="#P+011"  Part="1" 
+F 0 "#P+011" H 10200 4000 50  0001 C CNN
+F 1 "3.3V" H 10110 4110 59  0000 L BNN
+F 2 "" H 10200 4000 50  0001 C CNN
+F 3 "" H 10200 4000 50  0001 C CNN
+	1    10200 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:CONN_USB FPGAUSB
+U 2 0 20E6D25A
+P 1500 2100
+AR Path="/20E6D25A" Ref="FPGAUSB"  Part="2" 
+AR Path="/5BB8CAA2/20E6D25A" Ref="FPGAUSB1"  Part="2" 
+F 0 "FPGAUSB1" H 1500 2100 50  0001 C CNN
+F 1 "CONN_USB" H 1500 2100 50  0001 C CNN
+F 2 "Papilio_DUO:CONN_USB_MINI-B" H 1500 2100 50  0001 C CNN
+F 3 "" H 1500 2100 50  0001 C CNN
+	2    1500 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Papilio_DUO-eagle-import:DIGITAL-EEPROM-MICROWIRE-6P_SOT23 U3
+U 1 0 29385B0A
+P 2800 4800
+AR Path="/29385B0A" Ref="U3"  Part="1" 
+AR Path="/5BB8CAA2/29385B0A" Ref="U3"  Part="1" 
+F 0 "U3" H 2500 5120 59  0000 L BNN
+F 1 "93C56B" H 2500 4500 59  0000 L BNN
+F 2 "Papilio_DUO:SOT23-6" H 2800 4800 50  0001 C CNN
+F 3 "" H 2800 4800 50  0001 C CNN
+	1    2800 4800
+	-1   0    0    -1  
+$EndComp
+Text Notes 7800 6600 0    85   ~ 0
+FT2232H Section
+$EndSCHEMATC
