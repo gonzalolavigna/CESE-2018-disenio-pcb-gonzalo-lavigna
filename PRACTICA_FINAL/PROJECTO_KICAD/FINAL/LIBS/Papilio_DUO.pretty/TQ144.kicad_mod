@@ -1,4 +1,4 @@
-(module TQ144 (layer F.Cu) (tedit 0)
+(module TQ144 (layer F.Cu) (tedit 5BC53E6F)
   (descr "<b>TQ144 TQG144</b>")
   (fp_text reference S1 (at -2 -1) (layer F.SilkS)
     (effects (font (size 0.76 0.76) (thickness 0.1064)) (justify right top))
@@ -455,4 +455,9 @@
     (solder_mask_margin 0.0508))
   (pad 144 smd rect (at -8.75 -11.1 90) (size 1.6 0.3) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0508))
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

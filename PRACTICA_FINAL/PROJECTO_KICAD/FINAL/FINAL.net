@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source F:\GIT\CIAA\-01-CESE-2018-PCBS\PRACTICA_FINAL\PROJECTO_KICAD\FINAL\FINAL.sch)
-    (date "12/10/2018 10:45:44 p.m.")
+    (source D:\CESE\CESE-2018-disenio-pcb-gonzalo-lavigna\PRACTICA_FINAL\PROJECTO_KICAD\FINAL\FINAL.sch)
+    (date "15/10/2018 15:07:29")
     (tool "Eeschema (5.0.0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1370,7 +1370,7 @@
         (pin (num 2) (name 2) (type passive)))))
   (libraries
     (library (logical Papilio_DUO-eagle-import)
-      (uri F:\GIT\CIAA\-01-CESE-2018-PCBS\PRACTICA_FINAL\PROJECTO_KICAD\FINAL/LIBS/Papilio_DUO-eagle-import.lib)))
+      (uri D:\CESE\CESE-2018-disenio-pcb-gonzalo-lavigna\PRACTICA_FINAL\PROJECTO_KICAD\FINAL/LIBS/Papilio_DUO-eagle-import.lib)))
   (nets
     (net (code 1) (name /Arduino/MEGA_D16)
       (node (ref U101) (pin 32))

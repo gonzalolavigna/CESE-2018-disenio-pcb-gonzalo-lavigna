@@ -1,8 +1,8 @@
-(module POWER_NO_TEXT (layer F.Cu) (tedit 0)
-  (fp_text reference WING_POWER6 (at 0 0) (layer F.SilkS) hide
+(module POWER_NO_TEXT (layer F.Cu) (tedit 5BC552A6)
+  (fp_text reference WING_POWER1 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
-  (fp_text value HEADER_FEMALE_4 (at 0 0) (layer F.SilkS) hide
+  (fp_text value FRAME-A4L-LOC (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_line (start -1.27 -4.445) (end -0.635 -5.08) (layer Dwgs.User) (width 0.127))
@@ -21,4 +21,9 @@
     (solder_mask_margin 0.0508))
   (pad P4 thru_hole circle (at 0 3.81 270) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508))
+  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step
+    (offset (xyz 0 3.78 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -1,4 +1,4 @@
-(module CON2_USB_MICRO_B_AT (layer F.Cu) (tedit 0)
+(module CON2_USB_MICRO_B_AT (layer F.Cu) (tedit 5BC5394F)
   (fp_text reference AVRUSB (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
   )
@@ -120,4 +120,9 @@
     (solder_mask_margin 0.0508))
   (pad R thru_hole circle (at -2.6162 -2.6924) (size 0.8128 0.8128) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508))
+  (model ${KIPRJMOD}/3D-MODELS/AVR-USB/10118193-0001LF--3DModel-STEP-56544.STEP
+    (offset (xyz 0 -1.904999971389771 2.539999961853027))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )

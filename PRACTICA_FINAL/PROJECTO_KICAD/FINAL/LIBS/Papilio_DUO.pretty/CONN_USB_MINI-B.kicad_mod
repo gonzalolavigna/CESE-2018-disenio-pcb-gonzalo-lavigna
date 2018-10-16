@@ -1,6 +1,6 @@
-(module CONN_USB_MINI-B (layer F.Cu) (tedit 0)
+(module CONN_USB_MINI-B (layer F.Cu) (tedit 5BC55CFE)
   (descr "USB mini-b connector SMT 0.8 mm pitch")
-  (fp_text reference FPGAUSB (at -4 -5.5) (layer F.SilkS) hide
+  (fp_text reference FPGAUSB1 (at -4 -5.5) (layer F.SilkS) hide
     (effects (font (size 1.2065 1.2065) (thickness 0.1016)) (justify right top))
   )
   (fp_text value CONN_USB (at 0 0) (layer F.SilkS) hide
@@ -36,4 +36,9 @@
     (solder_mask_margin 0.0508))
   (pad "" np_thru_hole circle (at -2.2 0) (size 0.9 0.9) (drill 0.9) (layers *.Cu))
   (pad "" np_thru_hole circle (at 2.2 0) (size 0.9 0.9) (drill 0.9) (layers *.Cu))
+  (model ${KIPRJMOD}/3D-MODELS/FPGA-USB/SW3dPS-conn_usb_mini.STEP
+    (offset (xyz 0 0.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
