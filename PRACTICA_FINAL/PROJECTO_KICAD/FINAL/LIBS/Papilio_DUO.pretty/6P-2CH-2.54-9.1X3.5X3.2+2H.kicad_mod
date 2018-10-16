@@ -1,4 +1,4 @@
-(module 6P-2CH-2.54-9.1X3.5X3.2+2H (layer F.Cu) (tedit 0)
+(module 6P-2CH-2.54-9.1X3.5X3.2+2H (layer F.Cu) (tedit 5BC56B9A)
   (fp_text reference SW1 (at -1.905 -2.54 -90) (layer F.SilkS)
     (effects (font (size 0.9652 0.9652) (thickness 0.14478)) (justify right top))
   )
@@ -22,4 +22,9 @@
     (solder_mask_margin 0.0508))
   (pad CH2A thru_hole circle (at -2.54 -1.6 90) (size 1.27 1.27) (drill 0.8128) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508))
+  (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_CuK_JS202011CQN_DPDT_Straight.step
+    (offset (xyz -2.5 1.75 -0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
