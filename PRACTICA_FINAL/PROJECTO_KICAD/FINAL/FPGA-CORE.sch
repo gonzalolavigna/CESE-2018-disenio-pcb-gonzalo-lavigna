@@ -5,11 +5,11 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 5 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "Papillio Due - Clone"
+Date "2018-10-16"
+Rev "1.0"
+Comp "Curso Diseño de PCBs - CESE 2018"
+Comment1 "Autor: Gonzalo Lavigna"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -1977,13 +1977,13 @@ Text Notes 3800 2750 0    50   ~ 0
 MEMORIA PROGRAMACION
 Text Notes 3800 3200 0    50   ~ 0
 RESET MANUAL Y CLOCK
-Wire Notes Line rgb(194, 19, 13)
+Wire Notes Line rgb(194, 19, 0)
 	1600 800  3650 800 
-Wire Notes Line rgb(194, 39, 45)
+Wire Notes Line rgb(194, 39, 0)
 	3650 800  3650 2450
-Wire Notes Line rgb(194, 25, 38)
+Wire Notes Line rgb(194, 25, 0)
 	1600 2450 1600 800 
-Wire Notes Line rgb(194, 15, 15)
+Wire Notes Line rgb(194, 15, 0)
 	1600 2450 3650 2450
 Wire Notes Line
 	1700 2550 3550 2550

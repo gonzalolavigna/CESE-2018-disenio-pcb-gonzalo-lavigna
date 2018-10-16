@@ -6,10 +6,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 8
 Title "Papillio Due - Clone"
-Date "2018-10-06"
+Date "2018-10-16"
 Rev "1.0"
 Comp "Curso Diseño de PCBs - CESE 2018"
-Comment1 ""
+Comment1 "Autor: Gonzalo Lavigna"
 Comment2 ""
 Comment3 ""
 Comment4 ""
