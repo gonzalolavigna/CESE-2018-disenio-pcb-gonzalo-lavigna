@@ -26,8 +26,6 @@ F 3 "" H 2350 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2650 2450 2900 2450
-Wire Wire Line
 	2650 2550 2900 2550
 Wire Wire Line
 	2650 2650 3300 2650
@@ -283,4 +281,19 @@ NoConn ~ 2100 5150
 NoConn ~ 2900 2450
 NoConn ~ 2900 2550
 NoConn ~ 3300 2400
+Wire Wire Line
+	3200 2450 3200 2250
+Wire Wire Line
+	2650 2450 3200 2450
+$Comp
+L power:+3V3 #PWR?
+U 1 1 5BCC6E17
+P 3200 2250
+F 0 "#PWR?" H 3200 2100 50  0001 C CNN
+F 1 "+3V3" H 3215 2423 50  0000 C CNN
+F 2 "" H 3200 2250 50  0001 C CNN
+F 3 "" H 3200 2250 50  0001 C CNN
+	1    3200 2250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
