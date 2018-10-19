@@ -138,4 +138,6 @@ Wire Wire Line
 	8600 5900 8600 5350
 Wire Wire Line
 	8600 5350 8450 5350
+Text Notes 4450 1850 0    79   ~ 0
+Clone de Papilio DUO\nAlcance: Esquematico + Distribucion de componentes\n\nInformacion del HW en:\nhttp://papilio.cc/index.php?n=Papilio.PapilioDUOHardwareGuide
 $EndSCHEMATC
