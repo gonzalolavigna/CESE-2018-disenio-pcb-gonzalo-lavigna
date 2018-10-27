@@ -138,6 +138,81 @@ Wire Wire Line
 	8600 5900 8600 5350
 Wire Wire Line
 	8600 5350 8450 5350
-Text Notes 4450 1850 0    79   ~ 0
+Text Notes 4550 1750 0    79   ~ 0
 Clone de Papilio DUO\nAlcance: Esquematico + Distribucion de componentes\n\nInformacion del HW en:\nhttp://papilio.cc/index.php?n=Papilio.PapilioDUOHardwareGuide
+$Comp
+L Graphic:Logo_Open_Hardware_Small LOGO1
+U 1 1 5BD3CC36
+P 2500 1150
+F 0 "LOGO1" H 2500 1425 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 2500 925 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen" H 2500 1150 50  0001 C CNN
+F 3 "~" H 2500 1150 50  0001 C CNN
+	1    2500 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole F1
+U 1 1 5BD3CE11
+P 2250 2650
+F 0 "F1" H 2350 2696 50  0000 L CNN
+F 1 "Fiducial" H 2350 2605 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Dia_2mm_Outer" H 2250 2650 50  0001 C CNN
+F 3 "~" H 2250 2650 50  0001 C CNN
+	1    2250 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole F2
+U 1 1 5BD3CE6F
+P 2250 3000
+F 0 "F2" H 2350 3046 50  0000 L CNN
+F 1 "Fiducial" H 2350 2955 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Dia_2mm_Outer" H 2250 3000 50  0001 C CNN
+F 3 "~" H 2250 3000 50  0001 C CNN
+	1    2250 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole F3
+U 1 1 5BD3CE8D
+P 2250 3300
+F 0 "F3" H 2350 3346 50  0000 L CNN
+F 1 "Fiducial" H 2350 3255 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Dia_2mm_Outer" H 2250 3300 50  0001 C CNN
+F 3 "~" H 2250 3300 50  0001 C CNN
+	1    2250 3300
+	1    0    0    -1  
+$EndComp
+Text Notes 1950 2400 0    157  ~ 31
+Fiduciales
+Wire Notes Line
+	1800 2100 3250 2100
+Wire Notes Line
+	3250 2100 3250 3600
+Wire Notes Line
+	3250 3600 1800 3600
+Wire Notes Line
+	1800 3600 1800 2100
+Text Notes 2000 800  0    157  ~ 31
+Symbols
+Wire Notes Line
+	3250 550  3250 1900
+Wire Notes Line
+	3250 1900 1800 1900
+Wire Notes Line
+	1800 1900 1800 550 
+Wire Notes Line
+	1800 550  3250 550 
+$Comp
+L Papilio_DUO-eagle-import:logo_glavigna LOGO2
+U 1 1 5BD441DB
+P 2250 1550
+F 0 "LOGO2" H 2500 1600 50  0000 C CNN
+F 1 "logo_glavigna" H 2500 1350 50  0000 C CNN
+F 2 "Symbol:KiCad-Logo2_6mm_SilkScreen" H 2550 1500 50  0001 C CNN
+F 3 "" H 2550 1500 50  0001 C CNN
+	1    2250 1550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
