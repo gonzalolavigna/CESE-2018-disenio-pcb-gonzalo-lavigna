@@ -237,9 +237,9 @@ Wire Wire Line
 	4850 1200 5400 1200
 Text Label 4850 1200 0    50   ~ 0
 ARD_RESET
-Text Label 9700 1350 0    50   ~ 0
+Text Label 9700 2200 0    50   ~ 0
 ARD_RESET
-Text HLabel 10400 1350 2    50   Input ~ 0
+Text HLabel 10400 2200 2    50   Input ~ 0
 ARD_RESET
 Wire Wire Line
 	3200 1500 5400 1500
@@ -365,25 +365,25 @@ Wire Wire Line
 $Comp
 L Papilio_DUO-eagle-import:R-NORMAL0603 R110
 U 1 1 5BBBA97E
-P 9650 1150
-F 0 "R110" V 9696 1087 50  0000 R CNN
-F 1 "10K" V 9605 1087 50  0000 R CNN
-F 2 "Papilio_DUO:0603" V 9580 1150 50  0001 C CNN
-F 3 "~" H 9650 1150 50  0001 C CNN
-	1    9650 1150
+P 9650 2000
+F 0 "R110" V 9696 1937 50  0000 R CNN
+F 1 "10K" V 9605 1937 50  0000 R CNN
+F 2 "Papilio_DUO:0603" V 9580 2000 50  0001 C CNN
+F 3 "~" H 9650 2000 50  0001 C CNN
+	1    9650 2000
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	9650 950  9650 800 
+	9650 1800 9650 1650
 $Comp
 L power:+3V3 #PWR0107
 U 1 1 5BBBED82
-P 9650 800
-F 0 "#PWR0107" H 9650 650 50  0001 C CNN
-F 1 "+3V3" H 9665 973 50  0000 C CNN
-F 2 "" H 9650 800 50  0001 C CNN
-F 3 "" H 9650 800 50  0001 C CNN
-	1    9650 800 
+P 9650 1650
+F 0 "#PWR0107" H 9650 1500 50  0001 C CNN
+F 1 "+3V3" H 9665 1823 50  0000 C CNN
+F 2 "" H 9650 1650 50  0001 C CNN
+F 3 "" H 9650 1650 50  0001 C CNN
+	1    9650 1650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -576,8 +576,6 @@ Wire Wire Line
 Wire Wire Line
 	7800 1000 8250 1000
 Wire Wire Line
-	7800 1100 8250 1100
-Wire Wire Line
 	7800 1200 8250 1200
 Wire Wire Line
 	7800 1300 8250 1300
@@ -589,10 +587,6 @@ Wire Wire Line
 	7800 1600 8250 1600
 Wire Wire Line
 	7800 1700 8250 1700
-Wire Wire Line
-	7800 2000 8250 2000
-Wire Wire Line
-	7800 2100 8250 2100
 Wire Wire Line
 	7800 2300 8250 2300
 Wire Wire Line
@@ -622,27 +616,11 @@ Wire Wire Line
 	7800 3200 8250 3200
 Wire Wire Line
 	7800 3300 8250 3300
-Wire Wire Line
-	7800 3500 8250 3500
-Wire Wire Line
-	7800 3600 8250 3600
-Wire Wire Line
-	7800 3700 8250 3700
-Wire Wire Line
-	7800 3800 8250 3800
-Wire Wire Line
-	7800 4100 8250 4100
-Wire Wire Line
-	7800 4200 8250 4200
 Text Label 7850 1000 0    50   ~ 0
 ATMEGA_IO9*
 Text Label 7850 1100 0    50   ~ 0
 MEGA_D14
-Wire Wire Line
-	9700 1450 10400 1450
-Text Label 9700 1450 0    50   ~ 0
-MEGA_D14
-Text HLabel 10400 1450 2    50   BiDi ~ 0
+Text HLabel 8950 1100 2    50   BiDi ~ 0
 MEGA_D14
 Text Label 7850 1200 0    50   ~ 0
 ATMEGA_D2
@@ -661,18 +639,10 @@ MEGA_D16
 Text Label 7850 2100 0    50   ~ 0
 MEGA_D15
 Wire Wire Line
-	9700 1550 10400 1550
-Wire Wire Line
-	9700 1650 10400 1650
-Text Label 9700 1550 0    50   ~ 0
+	9650 2200 10400 2200
+Text HLabel 8950 2000 2    50   BiDi ~ 0
 MEGA_D16
-Text Label 9700 1650 0    50   ~ 0
-MEGA_D15
-Wire Wire Line
-	9650 1350 10400 1350
-Text HLabel 10400 1550 2    50   BiDi ~ 0
-MEGA_D16
-Text HLabel 10400 1650 2    50   BiDi ~ 0
+Text HLabel 8950 2100 2    50   BiDi ~ 0
 MEGA_D15
 Text Label 7850 2300 0    50   ~ 0
 NC
@@ -702,41 +672,17 @@ Text Label 7850 4100 0    50   ~ 0
 ATMEGA_A1
 Text Label 7850 4200 0    50   ~ 0
 ATMEGA_A0
-Text Label 9700 1750 0    50   ~ 0
+Text HLabel 8950 3500 2    50   BiDi ~ 0
 MEGA_D28/A5
-Text Label 9700 1850 0    50   ~ 0
+Text HLabel 8950 3600 2    50   BiDi ~ 0
 MEGA_D30/A4
-Text Label 9700 1950 0    50   ~ 0
+Text HLabel 8950 3700 2    50   BiDi ~ 0
 MEGA_D32/A3
-Text Label 9700 2050 0    50   ~ 0
+Text HLabel 8950 3800 2    50   BiDi ~ 0
 MEGA_D34/A2
-Text Label 9700 2150 0    50   ~ 0
+Text HLabel 8950 4100 2    50   BiDi ~ 0
 ATMEGA_A1
-Text Label 9700 2250 0    50   ~ 0
-ATMEGA_A0
-Wire Wire Line
-	9700 1750 10400 1750
-Wire Wire Line
-	9700 1850 10400 1850
-Wire Wire Line
-	9700 1950 10400 1950
-Wire Wire Line
-	9700 2050 10400 2050
-Wire Wire Line
-	9700 2150 10400 2150
-Wire Wire Line
-	9700 2250 10400 2250
-Text HLabel 10400 1750 2    50   BiDi ~ 0
-MEGA_D28/A5
-Text HLabel 10400 1850 2    50   BiDi ~ 0
-MEGA_D30/A4
-Text HLabel 10400 1950 2    50   BiDi ~ 0
-MEGA_D32/A3
-Text HLabel 10400 2050 2    50   BiDi ~ 0
-MEGA_D34/A2
-Text HLabel 10400 2150 2    50   BiDi ~ 0
-ATMEGA_A1
-Text HLabel 10400 2250 2    50   BiDi ~ 0
+Text HLabel 8950 4200 2    50   BiDi ~ 0
 ATMEGA_A0
 Text Label 4950 3200 0    50   ~ 0
 5V_ARDUINO
@@ -817,4 +763,22 @@ $EndComp
 Connection ~ 4400 3100
 Wire Wire Line
 	4400 3100 5400 3100
+Wire Wire Line
+	7800 4200 8950 4200
+Wire Wire Line
+	7800 4100 8950 4100
+Wire Wire Line
+	7800 3800 8950 3800
+Wire Wire Line
+	7800 3700 8950 3700
+Wire Wire Line
+	7800 3600 8950 3600
+Wire Wire Line
+	7800 3500 8950 3500
+Wire Wire Line
+	7800 2100 8950 2100
+Wire Wire Line
+	7800 2000 8950 2000
+Wire Wire Line
+	7800 1100 8950 1100
 $EndSCHEMATC
